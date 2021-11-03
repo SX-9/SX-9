@@ -15,7 +15,7 @@ My dream is to make a **discord bot** using **discord.js** with the following fe
 * Reaction Roles
 * Meme Creator
 * Leveling System
-* Music VC
+* YouTube Music VC Player
 * Economi System
 * Search, Weather, & Translator 
 * Loging
@@ -24,3 +24,4 @@ My dream is to make a **discord bot** using **discord.js** with the following fe
 * Web & App Dashboard
 * Welcome Messages
 * ModMail
+* Social Media Alerts
