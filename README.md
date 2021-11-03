@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**SX-9/SX-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+im a discord server owner.
+To join my server (click here!) [https://community.sx9.repl.co]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My dream is to make a discord bot using discord.js with the following features:
+-Moderation 
+-Slash Commands
+-Announcements
+-Automod
+-Custom Commands
+-hChaptcha Server Verification
+-Auto Role
+-Timer & Reminders 
+-Reaction Roles
+-Meme Creator
+-Leveling System
+-Music VC
+-Economi System
+-Search, Weather, & Translator 
+-Loging
+-Anti Malware & Scams
+-Poll Maker
+-Web & App Dashboard
+-Welcome Messages
+-Modmail
