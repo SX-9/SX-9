@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, Welcome to My Profile!
 
 im a **discord server owner**.
 To join my server [click here!](https://community.sx9.repl.co)
@@ -25,3 +25,7 @@ My dream is to make a **discord bot** using **discord.js** with the following fe
 * Welcome Messages
 * ModMail
 * Social Media Alerts
+* Custom Commands
+* And More...
+
+ basicly everything that a discord bot can do!!
