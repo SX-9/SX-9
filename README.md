@@ -26,6 +26,8 @@ My dream is to make a **discord bot** using **discord.js** with the following fe
 * ModMail
 * Social Media Alerts
 * Custom Commands
+* Custom Prefix In Deferent Servers
+* Suggestion, AI Chat, Giveaways
 * And More...
 
  basicly everything that a discord bot can do!!
