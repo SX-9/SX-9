@@ -5,4 +5,6 @@
   <hr size="1">
   <h2>Top Projects</h2>
   <p><a href="https://github.com/SX-9/sx-1st-website">sx-1st-website</a> & <a href="https://github.com/SX-9/sx-discord-bot">sx-discord-bot</a></p>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SX-9&layout=compact">
 </div>
