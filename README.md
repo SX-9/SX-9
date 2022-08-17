@@ -1,10 +1,24 @@
-<div align="center">
-  <img src="https://media.discordapp.net/attachments/935387615392301056/968288683906195502/discord-avatar-128-3UMG9.gif">
-  <h1>SX's Profile</h1>
-  <p>Hi, Im SX! Wanna Code?</h1>
-  <hr size="1">
-  <h2>Top Projects</h2>
-  <p><a href="https://sx9.is-a.dev">SX 1st Website</a>, <a href="https://top.gg/bot/889384219678232606">The Blue Dot AI</a>, & <a href="x-cord-client.sx9.repl.co">X-Cord Chat Client</a></p>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SX-9&layout=compact">
-</div>
+```js
+const SX9Dev = {
+  Name: "SX Spy Agent",
+  Description: "Hi, Im SX! Wanna Code?",
+  Website: "sx9.is-a.dev",
+  Projects: {
+    TheBlueDotAI: "top.gg/bot/889384219678232606",
+    XCordChat: "x-cord-client.sx9.repl.co",
+    TheArtAPI: "the-art-api.herokuapp.com",
+    CheckMateOS: "checkmate-os.sx9.is-a.dev",
+  },
+  Skills: [
+    "HTML",
+    "CSS",
+    "JS",
+    "BASH",
+    "VBS"
+  ],
+  Socials: {
+    Discord: "discord.gg/PTRmUNQsaP",
+    Twitter: "twitter.com/SX_Discord",
+  },
+};
+```
