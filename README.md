@@ -21,4 +21,7 @@ const SX9Dev = {
     Twitter: "twitter.com/SX_Discord",
   },
 };
+
+exports.Info = SX9Dev;
+alert(SX9Dev);
 ```
