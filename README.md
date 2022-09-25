@@ -1,27 +1,31 @@
 ```js
-const SX9Dev = {
-  Name: "SX Spy Agent",
-  Description: "Hi, Im SX! Wanna Code?",
-  Website: "sx9.is-a.dev",
-  Projects: {
-    TheBlueDotAI: "top.gg/bot/889384219678232606",
-    XCordChat: "x-cord-client.sx9.repl.co",
-    TheArtAPI: "the-art-api.herokuapp.com",
-    CheckMateOS: "checkmate-os.sx9.is-a.dev",
+const SX-9 = {
+  name: "SX Spy Agent",
+  description: "Hi, I'm SX! Wanna Code?",
+  Website: "https://sx9.is-a.dev",
+
+  projects: {
+    the_blue_dot_ai: "https://top.gg/bot/889384219678232606",
+    x_cord_chat: "https://x-cord-client.sx9.repl.co",
+    the_art_api: "https://the-art-api.herokuapp.com",
+    checkmate_os: "https://checkmate-os.sx9.is-a.dev",
   },
-  Skills: [
-    "HTML",
-    "CSS",
-    "JS",
+
+  skills: [
     "BASH",
+    "CSS",
+    "HTML",
+    "JS",
     "VBS"
   ],
-  Socials: {
-    Discord: "discord.gg/PTRmUNQsaP",
-    Twitter: "twitter.com/SX_Discord",
+
+  socials: {
+    discord: "https://discord.gg/PTRmUNQsaP",
+    twitter: "https://twitter.com/SX_Discord",
   },
 };
 
-exports.Info = SX9Dev;
-alert(SX9Dev);
+module.exports = SX-9;
+
+alert(SX-9);
 ```
