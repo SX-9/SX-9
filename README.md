@@ -5,10 +5,10 @@ const SX-9 = {
   Website: "https://sx9.is-a.dev",
 
   projects: {
-    TheBlueDotAI: "https://top.gg/bot/889384219678232606",
-    XCordChat: "https://x-cord-client.sx9.repl.co",
-    TheArtAPI: "https://the-art-api.herokuapp.com",
-    CheckMateOS: "https://checkmate-os.sx9.is-a.dev",
+    the_blue_dot_ai: "https://top.gg/bot/889384219678232606",
+    x_cord_chat: "https://x-cord-client.sx9.repl.co",
+    the_art_api: "https://the-art-api.herokuapp.com",
+    checkmate_os: "https://checkmate-os.sx9.is-a.dev",
   },
 
   skills: [
@@ -20,11 +20,12 @@ const SX-9 = {
   ],
 
   socials: {
-    Discord: "https://discord.gg/PTRmUNQsaP",
-    Twitter: "https://twitter.com/SX_Discord",
+    discord: "https://discord.gg/PTRmUNQsaP",
+    twitter: "https://twitter.com/SX_Discord",
   },
 };
 
 module.exports = SX-9;
+
 alert(SX-9);
 ```
