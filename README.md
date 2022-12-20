@@ -8,6 +8,9 @@ function greet(you) {
     Im Just A ${this.stack} Developer,
     Im Coding Since ${this.coded},
     I Use ${this.os} Btw.
+
+    More Info Of Me At ${this.site}.
+    Bye...
   `;
 }
 
@@ -16,6 +19,7 @@ const info = {
   stack: "Front-End",
   since: 2021,
   os: "Arch Linux",
+  site: "sx9.is-a.dev",
 }
 
 greet.bind(info);
