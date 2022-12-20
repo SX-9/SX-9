@@ -1,31 +1,25 @@
 ```js
-const SX-9 = {
+#! /bin/node
+
+function greet(you) {
+  return `
+    Hi, ${you}! Im ${this.name}, 
+
+    Im Just A ${this.stack} Developer,
+    Im Coding Since ${this.coded},
+    I Use ${this.os} Btw.
+  `;
+}
+
+const info = {
   name: "SX Spy Agent",
-  description: "Hi, I'm SX! Wanna Code?",
-  Website: "https://sx9.is-a.dev",
+  stack: "Front-End",
+  since: 2021,
+  os: "Arch Linux",
+}
 
-  projects: {
-    the_blue_dot_ai: "https://top.gg/bot/889384219678232606",
-    x_cord_chat: "https://x-cord-client.sx9.repl.co",
-    the_art_api: "https://the-art-api.herokuapp.com",
-    checkmate_os: "https://checkmate-os.sx9.is-a.dev",
-  },
+greet.bind(info);
+console.log(greet("Github");
 
-  skills: [
-    "BASH",
-    "CSS",
-    "HTML",
-    "JS",
-    "VBS"
-  ],
-
-  socials: {
-    discord: "https://discord.gg/PTRmUNQsaP",
-    twitter: "https://twitter.com/SX_Discord",
-  },
-};
-
-module.exports = SX-9;
-
-alert(SX-9);
+//EOF
 ```
