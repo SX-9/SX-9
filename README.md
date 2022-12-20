@@ -22,8 +22,8 @@ const info = {
   site: "sx9.is-a.dev",
 }
 
-greet.bind(info);
-console.log(greet("Github");
+let hello = greet.bind(info);
+console.log(hello("Github");
 
 //EOF
 ```
