@@ -23,7 +23,7 @@ const info = {
 }
 
 let hello = greet.bind(info);
-console.log(hello("Github");
+console.log(hello("Github"));
 
 //EOF
 ```
