@@ -27,3 +27,8 @@ console.log(hello("Github"));
 
 //EOF
 ```
+
+# $ ssh sx-9@github -p 1151
+
+![](https://github-readme-stats.vercel.app/api?username=SX-9&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&text_bold=true&custom_title=this.github.stats();#gh-dark-mode-only)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=SX-9&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&text_bold=true&custom_title=this.github.langs();#gh-dark-mode-only)
