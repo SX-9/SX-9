@@ -17,7 +17,7 @@ function greet(you) {
 const info = {
   name: "SX Spy Agent",
   stack: "Front-End",
-  since: 2021,
+  coded: 2021,
   os: "Arch Linux",
   site: "sx9.is-a.dev",
 }
