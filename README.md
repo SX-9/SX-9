@@ -1,3 +1,4 @@
+![Hello World!](banner.png)
 ```js
 #! /bin/node
 
