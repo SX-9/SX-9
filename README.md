@@ -1,6 +1,6 @@
 ![Hello World!](banner.png)
 <div align="center">
-  <h1>SX Spy Agent</h1>
+  <h1>:wave: Hello World!</h1>
 </div>
 
 ```js
