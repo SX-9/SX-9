@@ -7,10 +7,11 @@ function greet(you) {
   return `
     Hi, ${you}! Im ${this.name}, 
 
-    Im Just A ${this.stack} Developer,
-    Im An Asian Person At ${this.country},
-    Ive Been Coding Since ${this.coded},
-    I Use ${this.os} Btw.
+    Im A ${this.stack} Developer,
+    An Asian At ${this.country},
+    And An ${this.os} User Btw.
+    Ive Been Coding Since ${this.coded}
+    And Now Im A ${this.pro ? "Pro" : "Newbie"}.
 
     More Info Of Me At ${this.site}.
     Bye...
@@ -22,6 +23,7 @@ const info = {
   stack: "Front-End",
   country: "Indonesia",
   coded: 2021,
+  pro: true,
   os: "Arch Linux",
   site: "sx9.is-a.dev",
 }
