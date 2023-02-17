@@ -1,11 +1,11 @@
 ```js
 #! /bin/node
 
-const chalk = require("chalk");
+import chalk from "chalk";
 
 function greet(you) {
   return `
-    Hi, ${you}! Im ${this.name}, 
+    Hi, ${you}! Im ${this.name},
 
     Im A ${this.stack} Developer,
     An Asian At ${this.country},
