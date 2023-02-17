@@ -8,7 +8,7 @@ function greet(you) {
     Hi, ${you}! Im ${this.name}, 
 
     Im Just A ${this.stack} Developer,
-    Im An Asian At ${this.country},
+    Im An Asian Person At ${this.country},
     Ive Been Coding Since ${this.coded},
     I Use ${this.os} Btw.
 
