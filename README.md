@@ -1,6 +1,7 @@
 ![Hello World!](banner.png)
 <div align="center">
   <h1>:wave: Hello World!</h1>
+  <img src="https://skillicons.dev/icons?i=vite,vue,firebase,linux,nodejs,vscode&perline=6&theme=dark">
 </div>
 
 ```js
