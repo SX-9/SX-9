@@ -1,0 +1,12 @@
+settings:
+  username: "SX-9"
+  max_lines: 7
+  line_prefix: "=> "
+  commit_msg: "Recent Activity"
+  commit_name: "Updater"
+  commit_email: "hello@mail.sx9.is-a.dev"
+  readme_file: "./README.md"
+  date:
+    timezone: "WIB+0:00"
+    text: "###### Last Updated: {DATE}"
+    format: "dS mmmm, yyyy"
