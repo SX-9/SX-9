@@ -9,6 +9,6 @@ settings:
   date:
     timezone: "WIB+0:00"
     text: "###### Last Updated: {DATE}"
-    format: "dS mmmm, yyyy"
+    #format: "dS mmmm, yyyy"
   disabled_events:
     - "push"
