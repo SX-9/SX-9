@@ -8,7 +8,7 @@ settings:
   readme_file: "./README.md"
   date:
     #timezone: "WIB"
-    text: "###### Last Updated: {DATE}"
+    text: "###### Activities @ {DATE}"
     format: "dS mmmm, yyyy"
   disabled_events:
     - "push"
