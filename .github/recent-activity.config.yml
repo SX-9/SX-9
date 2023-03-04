@@ -7,8 +7,8 @@ settings:
   commit_email: "hello@mail.sx9.is-a.dev"
   readme_file: "./README.md"
   date:
-    timezone: "WIB"
+    #timezone: "WIB"
     text: "###### Last Updated: {DATE}"
-    format: "dS mmmm, yyyy"
+    #format: "dS mmmm, yyyy"
   disabled_events:
     - "push"
