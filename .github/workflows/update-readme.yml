@@ -4,7 +4,7 @@ on:
   schedule:
     # Runs every first and 12 hrs.
     - cron: '0 */12 * * *'
-  workflow_dispatch:
+  workflow_dispatch
 
 jobs:
   activity:
