@@ -9,4 +9,4 @@ settings:
   date:
     timezone: "WIB+0:00"
     text: "###### Last Updated: {DATE}"
-    #format: "mmmm dS, yyyy"
+    format: "dS mmmm, yyyy @ HH:MMtt Z"
