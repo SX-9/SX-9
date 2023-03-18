@@ -1,8 +1,9 @@
 ![Hello World!](banner.png)
-<div align="center">
-  <h1>:computer: Hello World!</h1>
-  <img src="https://skillicons.dev/icons?i=vite,vue,firebase,linux,nodejs,vscode&perline=6&theme=dark">
-</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=90D1F7&center=true&repeat=false&width=435&lines=%22Programming+Is+Painful+And+Fun%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&repeat=false&width=435&lines=F*ck+You+Light+Mode+User;%22Programming+Is+Painful+And+Fun%22)](https://git.io/typing-svg)
+
+![](https://skillicons.dev/icons?i=vite,vue,firebase,linux,nodejs,vscode&perline=6&theme=dark)
 
 ```js
 #! /bin/node
