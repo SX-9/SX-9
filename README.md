@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=90D1F7&center=true&repeat=false&width=435&lines=%22Programming+Is+Painful+And+Fun%22#gh-dark">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&repeat=false&width=435&lines=F*ck+You+Light+Mode+User;%22Program">
-  
+  <img alt="Quote" src="">
 </picture>
 
 ![](https://skillicons.dev/icons?i=vite,vue,firebase,linux,nodejs,vscode&perline=6&theme=dark)
