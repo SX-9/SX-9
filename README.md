@@ -6,8 +6,6 @@
   <img alt="Quote" src="">
 </picture>
 
-![](https://skillicons.dev/icons?i=vite,vue,firebase,linux,nodejs,vscode&perline=6&theme=dark)
-
 ```js
 #! /bin/node
 
@@ -43,6 +41,8 @@ console.log(chalk.cyan(hello("Github")));
 
 //EOF
 ```
+
+![](https://skillicons.dev/icons?i=vite,vue,firebase,linux,nodejs,vscode&perline=6&theme=light)
 
 ---
 
