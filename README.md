@@ -51,14 +51,14 @@ console.log(chalk.cyan(hello("Github")));
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Tenclea/YANG](https://github.com/Tenclea/YANG)<br>
-**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [deepfakes/faceswap](https://github.com/deepfakes/faceswap)<br>
-**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [aaronryank/fork-bomb](https://github.com/aaronryank/fork-bomb)<br>
-**4 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/xbang-lang](https://github.com/SX-9/xbang-lang)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [basil2style/RestarterApp](https://github.com/basil2style/RestarterApp)<br>
-**6 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#202](https://github.com/tarampampam/free-domains/pull/202) **|** [tarampampam/free-domains](https://github.com/tarampampam/free-domains)<br>
-**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tarampampam/free-domains](https://github.com/tarampampam/free-domains)<br>
-**8 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/make-it-smaller](https://github.com/SX-9/make-it-smaller)<br>
-**9 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#8072](https://github.com/js-org/js.org/pull/8072) **|** [js-org/js.org](https://github.com/js-org/js.org)<br>
-**10 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/dom.js](https://github.com/SX-9/dom.js)<br>
+**1 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1](https://github.com/SX-9/chatx/issues/1#issuecomment-1477972460) **|** [SX-9/chatx](https://github.com/SX-9/chatx)<br>
+**2 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1](https://github.com/SX-9/chatx/issues/1#issuecomment-1477970742) **|** [SX-9/chatx](https://github.com/SX-9/chatx)<br>
+**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Tenclea/YANG](https://github.com/Tenclea/YANG)<br>
+**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [deepfakes/faceswap](https://github.com/deepfakes/faceswap)<br>
+**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [aaronryank/fork-bomb](https://github.com/aaronryank/fork-bomb)<br>
+**6 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/xbang-lang](https://github.com/SX-9/xbang-lang)<br>
+**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [basil2style/RestarterApp](https://github.com/basil2style/RestarterApp)<br>
+**8 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#202](https://github.com/tarampampam/free-domains/pull/202) **|** [tarampampam/free-domains](https://github.com/tarampampam/free-domains)<br>
+**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tarampampam/free-domains](https://github.com/tarampampam/free-domains)<br>
+**10 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/make-it-smaller](https://github.com/SX-9/make-it-smaller)<br>
 <!--RECENT_ACTIVITY:end-->
