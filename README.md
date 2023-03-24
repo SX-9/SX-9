@@ -47,18 +47,18 @@ console.log(chalk.cyan(hello("Github")));
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Activities @ 23rd March, 2023
+###### Activities @ 24th March, 2023
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/cursor-hangout](https://github.com/SX-9/cursor-hangout)<br>
-**2 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/multi-cursor](https://github.com/SX-9/multi-cursor)<br>
-**3 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1](https://github.com/SX-9/chatx/issues/1#issuecomment-1477972460) **|** [SX-9/chatx](https://github.com/SX-9/chatx)<br>
-**4 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1](https://github.com/SX-9/chatx/issues/1#issuecomment-1477970742) **|** [SX-9/chatx](https://github.com/SX-9/chatx)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Tenclea/YANG](https://github.com/Tenclea/YANG)<br>
-**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [deepfakes/faceswap](https://github.com/deepfakes/faceswap)<br>
-**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [aaronryank/fork-bomb](https://github.com/aaronryank/fork-bomb)<br>
-**8 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/xbang-lang](https://github.com/SX-9/xbang-lang)<br>
-**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [basil2style/RestarterApp](https://github.com/basil2style/RestarterApp)<br>
-**10 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#202](https://github.com/tarampampam/free-domains/pull/202) **|** [tarampampam/free-domains](https://github.com/tarampampam/free-domains)<br>
+**1 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/web.sh-dashboard](https://github.com/SX-9/web.sh-dashboard)<br>
+**2 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/cursor-hangout](https://github.com/SX-9/cursor-hangout)<br>
+**3 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/multi-cursor](https://github.com/SX-9/multi-cursor)<br>
+**4 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1](https://github.com/SX-9/chatx/issues/1#issuecomment-1477972460) **|** [SX-9/chatx](https://github.com/SX-9/chatx)<br>
+**5 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1](https://github.com/SX-9/chatx/issues/1#issuecomment-1477970742) **|** [SX-9/chatx](https://github.com/SX-9/chatx)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Tenclea/YANG](https://github.com/Tenclea/YANG)<br>
+**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [deepfakes/faceswap](https://github.com/deepfakes/faceswap)<br>
+**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [aaronryank/fork-bomb](https://github.com/aaronryank/fork-bomb)<br>
+**9 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/xbang-lang](https://github.com/SX-9/xbang-lang)<br>
+**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [basil2style/RestarterApp](https://github.com/basil2style/RestarterApp)<br>
 <!--RECENT_ACTIVITY:end-->
