@@ -51,14 +51,14 @@ console.log(chalk.cyan(hello("Github")));
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [saqqdy/xterm-style](https://github.com/saqqdy/xterm-style)<br>
-**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
-**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [withfig/autocomplete](https://github.com/withfig/autocomplete)<br>
-**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [getcursor/cursor](https://github.com/getcursor/cursor)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
-**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)<br>
-**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [github/vscode-github-actions](https://github.com/github/vscode-github-actions)<br>
-**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [octokit/rest.js](https://github.com/octokit/rest.js)<br>
-**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [wdhdev/online-terminal](https://github.com/wdhdev/online-terminal)<br>
-**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [curl/curl](https://github.com/curl/curl)<br>
+**1 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#1015](https://github.com/stackblitz/webcontainer-core/issues/1015) **|** [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
+**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [saqqdy/xterm-style](https://github.com/saqqdy/xterm-style)<br>
+**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
+**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [withfig/autocomplete](https://github.com/withfig/autocomplete)<br>
+**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [getcursor/cursor](https://github.com/getcursor/cursor)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
+**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)<br>
+**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [github/vscode-github-actions](https://github.com/github/vscode-github-actions)<br>
+**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [octokit/rest.js](https://github.com/octokit/rest.js)<br>
+**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [wdhdev/online-terminal](https://github.com/wdhdev/online-terminal)<br>
 <!--RECENT_ACTIVITY:end-->
