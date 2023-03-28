@@ -51,14 +51,14 @@ console.log(chalk.cyan(hello("Github")));
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#1016](https://github.com/stackblitz/webcontainer-core/issues/1016) **|** [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
-**2 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#783](https://github.com/stackblitz/webcontainer-core/issues/783#issuecomment-1486347981) **|** [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
-**3 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#783](https://github.com/stackblitz/webcontainer-core/issues/783#issuecomment-1486346792) **|** [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
-**4 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#1015](https://github.com/stackblitz/webcontainer-core/issues/1015) **|** [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [saqqdy/xterm-style](https://github.com/saqqdy/xterm-style)<br>
-**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
-**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [withfig/autocomplete](https://github.com/withfig/autocomplete)<br>
-**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [getcursor/cursor](https://github.com/getcursor/cursor)<br>
-**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
-**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)<br>
+**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [ad2017gd/marisa-stole-the-precious-windows](https://github.com/ad2017gd/marisa-stole-the-precious-windows)<br>
+**2 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#1016](https://github.com/stackblitz/webcontainer-core/issues/1016) **|** [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
+**3 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#783](https://github.com/stackblitz/webcontainer-core/issues/783#issuecomment-1486347981) **|** [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
+**4 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#783](https://github.com/stackblitz/webcontainer-core/issues/783#issuecomment-1486346792) **|** [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
+**5 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#1015](https://github.com/stackblitz/webcontainer-core/issues/1015) **|** [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [saqqdy/xterm-style](https://github.com/saqqdy/xterm-style)<br>
+**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
+**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [withfig/autocomplete](https://github.com/withfig/autocomplete)<br>
+**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [getcursor/cursor](https://github.com/getcursor/cursor)<br>
+**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
 <!--RECENT_ACTIVITY:end-->
