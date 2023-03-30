@@ -45,7 +45,7 @@ console.log(chalk.cyan(hello("Github")));
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Activities @ 29th March, 2023
+###### Activities @ 30th March, 2023
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
