@@ -49,14 +49,14 @@ console.log(chalk.cyan(hello("Github")));
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/devx-os](https://github.com/SX-9/devx-os)<br>
-**2 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#5187](https://github.com/is-a-dev/register/pull/5187#issuecomment-1491138290) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-**3 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/devx-os](https://github.com/SX-9/devx-os)<br>
-**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [nextapps-de/winbox](https://github.com/nextapps-de/winbox)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [wobsoriano/vue-winbox](https://github.com/wobsoriano/vue-winbox)<br>
-**6 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/rsa-encrypt](https://github.com/SX-9/rsa-encrypt)<br>
-**7 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/xcp](https://github.com/SX-9/xcp)<br>
-**8 =>** ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#27](https://github.com/statsig-io/statuspage/pull/27) **|** [statsig-io/statuspage](https://github.com/statsig-io/statuspage)<br>
-**9 =>** ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#1](https://github.com/minoyahia/personal-website/pull/1) **|** [minoyahia/personal-website](https://github.com/minoyahia/personal-website)<br>
-**10 =>** ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#1](https://github.com/fireship-io/7-pwa-features-demo/pull/1) **|** [fireship-io/7-pwa-features-demo](https://github.com/fireship-io/7-pwa-features-demo)<br>
+**1 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#242](https://github.com/open-domains/register/issues/242#issuecomment-1491289379) **|** [open-domains/register](https://github.com/open-domains/register)<br>
+**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/devx-os](https://github.com/SX-9/devx-os)<br>
+**3 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#5187](https://github.com/is-a-dev/register/pull/5187#issuecomment-1491138290) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**4 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/devx-os](https://github.com/SX-9/devx-os)<br>
+**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [nextapps-de/winbox](https://github.com/nextapps-de/winbox)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [wobsoriano/vue-winbox](https://github.com/wobsoriano/vue-winbox)<br>
+**7 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/rsa-encrypt](https://github.com/SX-9/rsa-encrypt)<br>
+**8 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/xcp](https://github.com/SX-9/xcp)<br>
+**9 =>** ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#27](https://github.com/statsig-io/statuspage/pull/27) **|** [statsig-io/statuspage](https://github.com/statsig-io/statuspage)<br>
+**10 =>** ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#1](https://github.com/minoyahia/personal-website/pull/1) **|** [minoyahia/personal-website](https://github.com/minoyahia/personal-website)<br>
 <!--RECENT_ACTIVITY:end-->
