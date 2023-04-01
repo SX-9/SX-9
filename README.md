@@ -49,14 +49,14 @@ console.log(chalk.cyan(hello("Github")));
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [twitter/the-algorithm](https://github.com/twitter/the-algorithm)<br>
-**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [pankoza-pl/DeathPlus](https://github.com/pankoza-pl/DeathPlus)<br>
-**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [plasma-umass/browsix](https://github.com/plasma-umass/browsix)<br>
-**4 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#242](https://github.com/open-domains/register/issues/242#issuecomment-1491289379) **|** [open-domains/register](https://github.com/open-domains/register)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/devx-os](https://github.com/SX-9/devx-os)<br>
-**6 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#5187](https://github.com/is-a-dev/register/pull/5187#issuecomment-1491138290) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-**7 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/devx-os](https://github.com/SX-9/devx-os)<br>
-**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [nextapps-de/winbox](https://github.com/nextapps-de/winbox)<br>
-**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [wobsoriano/vue-winbox](https://github.com/wobsoriano/vue-winbox)<br>
-**10 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/rsa-encrypt](https://github.com/SX-9/rsa-encrypt)<br>
+**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [topjohnwu/libsu](https://github.com/topjohnwu/libsu)<br>
+**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [twitter/the-algorithm](https://github.com/twitter/the-algorithm)<br>
+**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [pankoza-pl/DeathPlus](https://github.com/pankoza-pl/DeathPlus)<br>
+**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [plasma-umass/browsix](https://github.com/plasma-umass/browsix)<br>
+**5 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#242](https://github.com/open-domains/register/issues/242#issuecomment-1491289379) **|** [open-domains/register](https://github.com/open-domains/register)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/devx-os](https://github.com/SX-9/devx-os)<br>
+**7 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#5187](https://github.com/is-a-dev/register/pull/5187#issuecomment-1491138290) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**8 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/devx-os](https://github.com/SX-9/devx-os)<br>
+**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [nextapps-de/winbox](https://github.com/nextapps-de/winbox)<br>
+**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [wobsoriano/vue-winbox](https://github.com/wobsoriano/vue-winbox)<br>
 <!--RECENT_ACTIVITY:end-->
