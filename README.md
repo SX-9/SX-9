@@ -49,14 +49,14 @@ console.log(chalk.cyan(hello("Github")));
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#11595](https://github.com/ohmyzsh/ohmyzsh/issues/11595) **|** [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)<br>
-**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)<br>
-**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [pnpm/pnpm](https://github.com/pnpm/pnpm)<br>
-**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [huggingface/transformers](https://github.com/huggingface/transformers)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [twitter/twemoji](https://github.com/twitter/twemoji)<br>
-**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [topjohnwu/libsu](https://github.com/topjohnwu/libsu)<br>
-**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [twitter/the-algorithm](https://github.com/twitter/the-algorithm)<br>
-**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [pankoza-pl/DeathPlus](https://github.com/pankoza-pl/DeathPlus)<br>
-**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [plasma-umass/browsix](https://github.com/plasma-umass/browsix)<br>
-**10 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#242](https://github.com/open-domains/register/issues/242#issuecomment-1491289379) **|** [open-domains/register](https://github.com/open-domains/register)<br>
+**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer)<br>
+**2 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#11595](https://github.com/ohmyzsh/ohmyzsh/issues/11595) **|** [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)<br>
+**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)<br>
+**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [pnpm/pnpm](https://github.com/pnpm/pnpm)<br>
+**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [huggingface/transformers](https://github.com/huggingface/transformers)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [twitter/twemoji](https://github.com/twitter/twemoji)<br>
+**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [topjohnwu/libsu](https://github.com/topjohnwu/libsu)<br>
+**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [twitter/the-algorithm](https://github.com/twitter/the-algorithm)<br>
+**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [pankoza-pl/DeathPlus](https://github.com/pankoza-pl/DeathPlus)<br>
+**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [plasma-umass/browsix](https://github.com/plasma-umass/browsix)<br>
 <!--RECENT_ACTIVITY:end-->
