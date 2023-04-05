@@ -49,14 +49,14 @@ console.log(chalk.cyan(hello("Github")));
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [public-apis/public-apis](https://github.com/public-apis/public-apis)<br>
-**2 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#4](https://github.com/Nabeelshar/Windows-11/issues/4) **|** [Nabeelshar/Windows-11](https://github.com/Nabeelshar/Windows-11)<br>
-**3 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#753](https://github.com/blueedgetechno/win11React/issues/753#issuecomment-1496703117) **|** [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)<br>
-**4 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#753](https://github.com/blueedgetechno/win11React/issues/753) **|** [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)<br>
-**6 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/web.sh-dashboard](https://github.com/SX-9/web.sh-dashboard)<br>
-**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [thijsheijden/your-year-in-code](https://github.com/thijsheijden/your-year-in-code)<br>
-**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot)<br>
-**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)<br>
-**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)<br>
+**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Xetera/ghost-cursor](https://github.com/Xetera/ghost-cursor)<br>
+**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [public-apis/public-apis](https://github.com/public-apis/public-apis)<br>
+**3 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#4](https://github.com/Nabeelshar/Windows-11/issues/4) **|** [Nabeelshar/Windows-11](https://github.com/Nabeelshar/Windows-11)<br>
+**4 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#753](https://github.com/blueedgetechno/win11React/issues/753#issuecomment-1496703117) **|** [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)<br>
+**5 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#753](https://github.com/blueedgetechno/win11React/issues/753) **|** [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)<br>
+**7 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/web.sh-dashboard](https://github.com/SX-9/web.sh-dashboard)<br>
+**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [thijsheijden/your-year-in-code](https://github.com/thijsheijden/your-year-in-code)<br>
+**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot)<br>
+**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)<br>
 <!--RECENT_ACTIVITY:end-->
