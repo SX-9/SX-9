@@ -45,18 +45,18 @@ console.log(chalk.cyan(hello("Github")));
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Activities @ 4th April, 2023
+###### Activities @ 5th April, 2023
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)<br>
-**2 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/web.sh-dashboard](https://github.com/SX-9/web.sh-dashboard)<br>
-**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [thijsheijden/your-year-in-code](https://github.com/thijsheijden/your-year-in-code)<br>
-**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)<br>
-**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)<br>
-**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [bakoushin/self-driving-car-javascript](https://github.com/bakoushin/self-driving-car-javascript)<br>
-**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [egoist/gh-pinned-repos](https://github.com/egoist/gh-pinned-repos)<br>
-**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/web.sh](https://github.com/SX-9/web.sh)<br>
-**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer)<br>
+**1 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#4](https://github.com/Nabeelshar/Windows-11/issues/4) **|** [Nabeelshar/Windows-11](https://github.com/Nabeelshar/Windows-11)<br>
+**2 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#753](https://github.com/blueedgetechno/win11React/issues/753#issuecomment-1496703117) **|** [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)<br>
+**3 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#753](https://github.com/blueedgetechno/win11React/issues/753) **|** [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)<br>
+**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)<br>
+**5 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/web.sh-dashboard](https://github.com/SX-9/web.sh-dashboard)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [thijsheijden/your-year-in-code](https://github.com/thijsheijden/your-year-in-code)<br>
+**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot)<br>
+**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)<br>
+**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)<br>
+**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [bakoushin/self-driving-car-javascript](https://github.com/bakoushin/self-driving-car-javascript)<br>
 <!--RECENT_ACTIVITY:end-->
