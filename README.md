@@ -49,14 +49,14 @@ console.log(chalk.cyan(hello("Github")));
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [code913/snake](https://github.com/code913/snake)<br>
-**2 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/draw-network](https://github.com/SX-9/draw-network)<br>
-**3 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#77](https://github.com/free-domains/register/issues/77#issuecomment-1498551681) **|** [free-domains/register](https://github.com/free-domains/register)<br>
-**4 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#77](https://github.com/free-domains/register/issues/77) **|** [free-domains/register](https://github.com/free-domains/register)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/xcp](https://github.com/SX-9/xcp)<br>
-**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/deljects](https://github.com/SX-9/deljects)<br>
-**7 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#753](https://github.com/blueedgetechno/win11React/issues/753#issuecomment-1497193878) **|** [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)<br>
-**8 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#753](https://github.com/blueedgetechno/win11React/issues/753#issuecomment-1497193635) **|** [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)<br>
-**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Xetera/ghost-cursor](https://github.com/Xetera/ghost-cursor)<br>
-**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [public-apis/public-apis](https://github.com/public-apis/public-apis)<br>
+**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/draw-network](https://github.com/SX-9/draw-network)<br>
+**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [code913/snake](https://github.com/code913/snake)<br>
+**3 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/draw-network](https://github.com/SX-9/draw-network)<br>
+**4 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#77](https://github.com/free-domains/register/issues/77#issuecomment-1498551681) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+**5 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#77](https://github.com/free-domains/register/issues/77) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/xcp](https://github.com/SX-9/xcp)<br>
+**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/deljects](https://github.com/SX-9/deljects)<br>
+**8 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#753](https://github.com/blueedgetechno/win11React/issues/753#issuecomment-1497193878) **|** [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)<br>
+**9 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#753](https://github.com/blueedgetechno/win11React/issues/753#issuecomment-1497193635) **|** [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)<br>
+**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Xetera/ghost-cursor](https://github.com/Xetera/ghost-cursor)<br>
 <!--RECENT_ACTIVITY:end-->
