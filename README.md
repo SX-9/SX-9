@@ -49,14 +49,14 @@ console.log(chalk.cyan(hello("Github")));
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [ahmadawais/ramadan-cli](https://github.com/ahmadawais/ramadan-cli)<br>
-**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [batoulapps/adhan-js](https://github.com/batoulapps/adhan-js)<br>
-**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [eddieantonio/imgcat](https://github.com/eddieantonio/imgcat)<br>
-**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sindresorhus/cat-names](https://github.com/sindresorhus/cat-names)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sharkdp/bat](https://github.com/sharkdp/bat)<br>
-**6 =>** ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#1016](https://github.com/stackblitz/webcontainer-core/issues/1016) **|** [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
-**7 =>** ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#753](https://github.com/blueedgetechno/win11React/issues/753) **|** [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)<br>
-**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/draw-network](https://github.com/SX-9/draw-network)<br>
-**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [code913/snake](https://github.com/code913/snake)<br>
-**10 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/draw-network](https://github.com/SX-9/draw-network)<br>
+**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [TabbyML/tabby](https://github.com/TabbyML/tabby)<br>
+**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)<br>
+**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Shubham-Kumar-2000/protocol-registry](https://github.com/Shubham-Kumar-2000/protocol-registry)<br>
+**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/cmd-protocol](https://github.com/WilliamDavidHarrison/cmd-protocol)<br>
+**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [ahmadawais/ramadan-cli](https://github.com/ahmadawais/ramadan-cli)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [batoulapps/adhan-js](https://github.com/batoulapps/adhan-js)<br>
+**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [eddieantonio/imgcat](https://github.com/eddieantonio/imgcat)<br>
+**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sindresorhus/cat-names](https://github.com/sindresorhus/cat-names)<br>
+**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sharkdp/bat](https://github.com/sharkdp/bat)<br>
+**10 =>** ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#1016](https://github.com/stackblitz/webcontainer-core/issues/1016) **|** [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
 <!--RECENT_ACTIVITY:end-->
