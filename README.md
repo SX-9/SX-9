@@ -40,7 +40,7 @@ console.log(chalk.cyan(hello("Github")));
 //EOF
 ```
 
-![](https://skillicons.dev/icons?i=vite,vue,firebase,linux,nodejs,vscode&perline=6&theme=light)
+![](https://skillicons.dev/icons?i=md,py,raspberrypi,replit,twitter,neovim,ts,vercel,bash,html,css,js,discord,express,git,github,vite,vue,firebase,linux,nodejs,vscode&theme=light&perline=11)
 
 ---
 
