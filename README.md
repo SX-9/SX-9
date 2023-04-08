@@ -49,14 +49,14 @@ console.log(chalk.cyan(hello("Github")));
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [batoulapps/adhan-js](https://github.com/batoulapps/adhan-js)<br>
-**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [eddieantonio/imgcat](https://github.com/eddieantonio/imgcat)<br>
-**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sindresorhus/cat-names](https://github.com/sindresorhus/cat-names)<br>
-**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sharkdp/bat](https://github.com/sharkdp/bat)<br>
-**5 =>** ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#1016](https://github.com/stackblitz/webcontainer-core/issues/1016) **|** [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
-**6 =>** ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#753](https://github.com/blueedgetechno/win11React/issues/753) **|** [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)<br>
-**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/draw-network](https://github.com/SX-9/draw-network)<br>
-**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [code913/snake](https://github.com/code913/snake)<br>
-**9 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/draw-network](https://github.com/SX-9/draw-network)<br>
-**10 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#77](https://github.com/free-domains/register/issues/77#issuecomment-1498551681) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [ahmadawais/ramadan-cli](https://github.com/ahmadawais/ramadan-cli)<br>
+**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [batoulapps/adhan-js](https://github.com/batoulapps/adhan-js)<br>
+**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [eddieantonio/imgcat](https://github.com/eddieantonio/imgcat)<br>
+**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sindresorhus/cat-names](https://github.com/sindresorhus/cat-names)<br>
+**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sharkdp/bat](https://github.com/sharkdp/bat)<br>
+**6 =>** ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#1016](https://github.com/stackblitz/webcontainer-core/issues/1016) **|** [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
+**7 =>** ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#753](https://github.com/blueedgetechno/win11React/issues/753) **|** [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)<br>
+**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/draw-network](https://github.com/SX-9/draw-network)<br>
+**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [code913/snake](https://github.com/code913/snake)<br>
+**10 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/draw-network](https://github.com/SX-9/draw-network)<br>
 <!--RECENT_ACTIVITY:end-->
