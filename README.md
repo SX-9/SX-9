@@ -24,7 +24,7 @@ function greet(you) {
 }
 
 const info = {
-  name: "SX Spy Agent",
+  name: "Satria",
   stack: "Front-End",
   country: "Indonesia",
   coded: 2021,
