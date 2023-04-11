@@ -33,9 +33,13 @@ const info = {
 }
 
 let hello = greet.bind(info);
-console.log(chalk.cyan(hello("Github")));
+console.log(
+  chalk.cyan(
+    hello("Github")
+  )
+);
 
-//EOF
+// EOF
 ```
 
 ![](https://skillicons.dev/icons?i=md,py,raspberrypi,replit,twitter,neovim,ts,vercel,bash,html,css,js,discord,express,git,github,vite,vue,firebase,linux,nodejs,vscode&theme=light&perline=11)
