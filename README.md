@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=90D1F7&center=true&repeat=false&width=435&lines=%22Programming+Is+Painful+And+Fun%22">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=90D1F7&repeat=false&width=435&lines=%22Programming+Is+Painful+And+Fun%22">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&repeat=false&width=435&lines=F*ck+You+Light+Mode+User;%22Programming+Is+Painful+And+Fun%22">
-  <img alt="Quote" src="">
+  <img alt="Quote">
 </picture>
 
 ```js
