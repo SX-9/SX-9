@@ -51,14 +51,14 @@ console.log(
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [torvalds/linux](https://github.com/torvalds/linux)<br>
-**2 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#1](https://github.com/SX-9/discord-terminal-v2/pull/1) **|** [SX-9/discord-terminal-v2](https://github.com/SX-9/discord-terminal-v2)<br>
-**3 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#1](https://github.com/SX-9/discord-terminal-v2/pull/1) **|** [SX-9/discord-terminal-v2](https://github.com/SX-9/discord-terminal-v2)<br>
-**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [PwnFunction/xss.pwnfunction.com](https://github.com/PwnFunction/xss.pwnfunction.com)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [shyamtawli/devFind](https://github.com/shyamtawli/devFind)<br>
-**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/term-port](https://github.com/SX-9/term-port)<br>
-**7 =>** ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#11655](https://github.com/ohmyzsh/ohmyzsh/issues/11655) **|** [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)<br>
-**8 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#11655](https://github.com/ohmyzsh/ohmyzsh/issues/11655#issuecomment-1528802364) **|** [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)<br>
-**9 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/term-port](https://github.com/SX-9/term-port)<br>
-**10 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#11655](https://github.com/ohmyzsh/ohmyzsh/issues/11655) **|** [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)<br>
+**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tofuri/tofuri](https://github.com/tofuri/tofuri)<br>
+**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [torvalds/linux](https://github.com/torvalds/linux)<br>
+**3 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#1](https://github.com/SX-9/discord-terminal-v2/pull/1) **|** [SX-9/discord-terminal-v2](https://github.com/SX-9/discord-terminal-v2)<br>
+**4 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#1](https://github.com/SX-9/discord-terminal-v2/pull/1) **|** [SX-9/discord-terminal-v2](https://github.com/SX-9/discord-terminal-v2)<br>
+**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [PwnFunction/xss.pwnfunction.com](https://github.com/PwnFunction/xss.pwnfunction.com)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [shyamtawli/devFind](https://github.com/shyamtawli/devFind)<br>
+**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/term-port](https://github.com/SX-9/term-port)<br>
+**8 =>** ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#11655](https://github.com/ohmyzsh/ohmyzsh/issues/11655) **|** [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)<br>
+**9 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#11655](https://github.com/ohmyzsh/ohmyzsh/issues/11655#issuecomment-1528802364) **|** [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)<br>
+**10 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/term-port](https://github.com/SX-9/term-port)<br>
 <!--RECENT_ACTIVITY:end-->
