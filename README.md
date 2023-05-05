@@ -47,18 +47,18 @@ console.log(
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Activities @ 4th May, 2023
+###### Activities @ 5th May, 2023
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/click-fast](https://github.com/SX-9/click-fast)<br>
-**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse)<br>
-**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [is-really-cool/register](https://github.com/is-really-cool/register)<br>
-**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tofuri/tofuri](https://github.com/tofuri/tofuri)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [torvalds/linux](https://github.com/torvalds/linux)<br>
-**6 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#1](https://github.com/SX-9/discord-terminal-v2/pull/1) **|** [SX-9/discord-terminal-v2](https://github.com/SX-9/discord-terminal-v2)<br>
-**7 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#1](https://github.com/SX-9/discord-terminal-v2/pull/1) **|** [SX-9/discord-terminal-v2](https://github.com/SX-9/discord-terminal-v2)<br>
-**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [PwnFunction/xss.pwnfunction.com](https://github.com/PwnFunction/xss.pwnfunction.com)<br>
-**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [shyamtawli/devFind](https://github.com/shyamtawli/devFind)<br>
-**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/term-port](https://github.com/SX-9/term-port)<br>
+**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [juanfont/headscale](https://github.com/juanfont/headscale)<br>
+**2 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/click-fast](https://github.com/SX-9/click-fast)<br>
+**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse)<br>
+**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [is-really-cool/register](https://github.com/is-really-cool/register)<br>
+**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tofuri/tofuri](https://github.com/tofuri/tofuri)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [torvalds/linux](https://github.com/torvalds/linux)<br>
+**7 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#1](https://github.com/SX-9/discord-terminal-v2/pull/1) **|** [SX-9/discord-terminal-v2](https://github.com/SX-9/discord-terminal-v2)<br>
+**8 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#1](https://github.com/SX-9/discord-terminal-v2/pull/1) **|** [SX-9/discord-terminal-v2](https://github.com/SX-9/discord-terminal-v2)<br>
+**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [PwnFunction/xss.pwnfunction.com](https://github.com/PwnFunction/xss.pwnfunction.com)<br>
+**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [shyamtawli/devFind](https://github.com/shyamtawli/devFind)<br>
 <!--RECENT_ACTIVITY:end-->
