@@ -51,14 +51,14 @@ console.log(
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [RealSput/Wenode](https://github.com/RealSput/Wenode)<br>
-**2 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#1](https://github.com/SX-9/codedit-web/pull/1) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**3 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#2](https://github.com/SX-9/codedit-web/pull/2) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [oyepriyansh/is-a.dev-json](https://github.com/oyepriyansh/is-a.dev-json)<br>
-**5 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/dvd-bounce](https://github.com/SX-9/dvd-bounce)<br>
-**6 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/http-nodejs](https://github.com/SX-9/http-nodejs)<br>
-**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [juanfont/headscale](https://github.com/juanfont/headscale)<br>
-**8 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/click-fast](https://github.com/SX-9/click-fast)<br>
-**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse)<br>
-**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [is-really-cool/register](https://github.com/is-really-cool/register)<br>
+**1 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/try-linux](https://github.com/SX-9/try-linux)<br>
+**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [RealSput/Wenode](https://github.com/RealSput/Wenode)<br>
+**3 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#1](https://github.com/SX-9/codedit-web/pull/1) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**4 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#2](https://github.com/SX-9/codedit-web/pull/2) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [oyepriyansh/is-a.dev-json](https://github.com/oyepriyansh/is-a.dev-json)<br>
+**6 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/dvd-bounce](https://github.com/SX-9/dvd-bounce)<br>
+**7 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/http-nodejs](https://github.com/SX-9/http-nodejs)<br>
+**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [juanfont/headscale](https://github.com/juanfont/headscale)<br>
+**9 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/click-fast](https://github.com/SX-9/click-fast)<br>
+**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse)<br>
 <!--RECENT_ACTIVITY:end-->
