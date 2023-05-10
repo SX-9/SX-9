@@ -51,14 +51,14 @@ console.log(
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#3](https://github.com/SX-9/codedit-web/pull/3) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [schnensch0/zelk](https://github.com/schnensch0/zelk)<br>
-**3 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/try-linux](https://github.com/SX-9/try-linux)<br>
-**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [RealSput/Wenode](https://github.com/RealSput/Wenode)<br>
-**5 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#1](https://github.com/SX-9/codedit-web/pull/1) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**6 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#2](https://github.com/SX-9/codedit-web/pull/2) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [oyepriyansh/is-a.dev-json](https://github.com/oyepriyansh/is-a.dev-json)<br>
-**8 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/dvd-bounce](https://github.com/SX-9/dvd-bounce)<br>
-**9 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/http-nodejs](https://github.com/SX-9/http-nodejs)<br>
-**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [juanfont/headscale](https://github.com/juanfont/headscale)<br>
+**1 =>** ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#4](https://github.com/SX-9/codedit-web/pull/4) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**2 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#3](https://github.com/SX-9/codedit-web/pull/3) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [schnensch0/zelk](https://github.com/schnensch0/zelk)<br>
+**4 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/try-linux](https://github.com/SX-9/try-linux)<br>
+**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [RealSput/Wenode](https://github.com/RealSput/Wenode)<br>
+**6 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#1](https://github.com/SX-9/codedit-web/pull/1) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**7 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#2](https://github.com/SX-9/codedit-web/pull/2) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [oyepriyansh/is-a.dev-json](https://github.com/oyepriyansh/is-a.dev-json)<br>
+**9 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/dvd-bounce](https://github.com/SX-9/dvd-bounce)<br>
+**10 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/http-nodejs](https://github.com/SX-9/http-nodejs)<br>
 <!--RECENT_ACTIVITY:end-->
