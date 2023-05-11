@@ -51,14 +51,14 @@ console.log(
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#4](https://github.com/SX-9/codedit-web/pull/4) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**2 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#3](https://github.com/SX-9/codedit-web/pull/3) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [schnensch0/zelk](https://github.com/schnensch0/zelk)<br>
-**4 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/try-linux](https://github.com/SX-9/try-linux)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [RealSput/Wenode](https://github.com/RealSput/Wenode)<br>
-**6 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#1](https://github.com/SX-9/codedit-web/pull/1) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**7 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#2](https://github.com/SX-9/codedit-web/pull/2) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [oyepriyansh/is-a.dev-json](https://github.com/oyepriyansh/is-a.dev-json)<br>
-**9 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/dvd-bounce](https://github.com/SX-9/dvd-bounce)<br>
-**10 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/http-nodejs](https://github.com/SX-9/http-nodejs)<br>
+**1 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#5](https://github.com/SX-9/codedit-web/pull/5) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**2 =>** ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#4](https://github.com/SX-9/codedit-web/pull/4) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**3 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#3](https://github.com/SX-9/codedit-web/pull/3) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [schnensch0/zelk](https://github.com/schnensch0/zelk)<br>
+**5 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/try-linux](https://github.com/SX-9/try-linux)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [RealSput/Wenode](https://github.com/RealSput/Wenode)<br>
+**7 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#1](https://github.com/SX-9/codedit-web/pull/1) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**8 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#2](https://github.com/SX-9/codedit-web/pull/2) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [oyepriyansh/is-a.dev-json](https://github.com/oyepriyansh/is-a.dev-json)<br>
+**10 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/dvd-bounce](https://github.com/SX-9/dvd-bounce)<br>
 <!--RECENT_ACTIVITY:end-->
