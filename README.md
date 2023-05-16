@@ -51,14 +51,14 @@ console.log(
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI)<br>
-**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [free-domains/register](https://github.com/free-domains/register)<br>
-**3 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#77](https://github.com/free-domains/register/issues/77#issuecomment-1547542338) **|** [free-domains/register](https://github.com/free-domains/register)<br>
-**4 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5](https://github.com/SX-9/codedit-web/pull/5) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [pankoza-pl/TrashMalwares](https://github.com/pankoza-pl/TrashMalwares)<br>
-**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [appwrite/appwrite](https://github.com/appwrite/appwrite)<br>
-**7 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#55](https://github.com/femto-code/Raspberry-Pi-Dashboard/issues/55) **|** [femto-code/Raspberry-Pi-Dashboard](https://github.com/femto-code/Raspberry-Pi-Dashboard)<br>
-**8 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#5](https://github.com/SX-9/codedit-web/pull/5) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**9 =>** ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#4](https://github.com/SX-9/codedit-web/pull/4) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**10 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#3](https://github.com/SX-9/codedit-web/pull/3) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Discord-AntiScam/scam-links](https://github.com/Discord-AntiScam/scam-links)<br>
+**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI)<br>
+**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [free-domains/register](https://github.com/free-domains/register)<br>
+**4 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#77](https://github.com/free-domains/register/issues/77#issuecomment-1547542338) **|** [free-domains/register](https://github.com/free-domains/register)<br>
+**5 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#5](https://github.com/SX-9/codedit-web/pull/5) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [pankoza-pl/TrashMalwares](https://github.com/pankoza-pl/TrashMalwares)<br>
+**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [appwrite/appwrite](https://github.com/appwrite/appwrite)<br>
+**8 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#55](https://github.com/femto-code/Raspberry-Pi-Dashboard/issues/55) **|** [femto-code/Raspberry-Pi-Dashboard](https://github.com/femto-code/Raspberry-Pi-Dashboard)<br>
+**9 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#5](https://github.com/SX-9/codedit-web/pull/5) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**10 =>** ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#4](https://github.com/SX-9/codedit-web/pull/4) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
 <!--RECENT_ACTIVITY:end-->
