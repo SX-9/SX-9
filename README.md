@@ -51,14 +51,14 @@ console.log(
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)<br>
-**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [RoganDawes/P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa)<br>
-**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [beboxos/P4wnP1_ALOA_OLED_MENU_V2](https://github.com/beboxos/P4wnP1_ALOA_OLED_MENU_V2)<br>
-**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [pangduckwai/PiDisplay](https://github.com/pangduckwai/PiDisplay)<br>
-**5 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#2999](https://github.com/Shabinder/SpotiFlyer/issues/2999) **|** [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)<br>
-**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [adafruit/Adafruit_Python_SSD1306](https://github.com/adafruit/Adafruit_Python_SSD1306)<br>
-**7 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/socket-chat](https://github.com/SX-9/socket-chat)<br>
-**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [IOT-MCU/IIC-Pi-OLED](https://github.com/IOT-MCU/IIC-Pi-OLED)<br>
-**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash)<br>
-**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Discord-AntiScam/scam-links](https://github.com/Discord-AntiScam/scam-links)<br>
+**1 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/deploy-code-server-F-Ad](https://github.com/SX-9/deploy-code-server-F-Ad)<br>
+**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)<br>
+**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [RoganDawes/P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa)<br>
+**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [beboxos/P4wnP1_ALOA_OLED_MENU_V2](https://github.com/beboxos/P4wnP1_ALOA_OLED_MENU_V2)<br>
+**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [pangduckwai/PiDisplay](https://github.com/pangduckwai/PiDisplay)<br>
+**6 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#2999](https://github.com/Shabinder/SpotiFlyer/issues/2999) **|** [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)<br>
+**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [adafruit/Adafruit_Python_SSD1306](https://github.com/adafruit/Adafruit_Python_SSD1306)<br>
+**8 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/socket-chat](https://github.com/SX-9/socket-chat)<br>
+**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [IOT-MCU/IIC-Pi-OLED](https://github.com/IOT-MCU/IIC-Pi-OLED)<br>
+**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash)<br>
 <!--RECENT_ACTIVITY:end-->
