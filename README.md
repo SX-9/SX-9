@@ -51,14 +51,14 @@ console.log(
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)<br>
-**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [keroserene/rickrollrc](https://github.com/keroserene/rickrollrc)<br>
-**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)<br>
-**4 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/deploy-code-server-F-Ad](https://github.com/SX-9/deploy-code-server-F-Ad)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)<br>
-**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [RoganDawes/P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa)<br>
-**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [beboxos/P4wnP1_ALOA_OLED_MENU_V2](https://github.com/beboxos/P4wnP1_ALOA_OLED_MENU_V2)<br>
-**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [pangduckwai/PiDisplay](https://github.com/pangduckwai/PiDisplay)<br>
-**9 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#2999](https://github.com/Shabinder/SpotiFlyer/issues/2999) **|** [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)<br>
-**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [adafruit/Adafruit_Python_SSD1306](https://github.com/adafruit/Adafruit_Python_SSD1306)<br>
+**1 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#466](https://github.com/pinout-xyz/Pinout.xyz/issues/466) **|** [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz)<br>
+**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)<br>
+**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [keroserene/rickrollrc](https://github.com/keroserene/rickrollrc)<br>
+**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)<br>
+**5 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/deploy-code-server-F-Ad](https://github.com/SX-9/deploy-code-server-F-Ad)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)<br>
+**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [RoganDawes/P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa)<br>
+**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [beboxos/P4wnP1_ALOA_OLED_MENU_V2](https://github.com/beboxos/P4wnP1_ALOA_OLED_MENU_V2)<br>
+**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [pangduckwai/PiDisplay](https://github.com/pangduckwai/PiDisplay)<br>
+**10 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#2999](https://github.com/Shabinder/SpotiFlyer/issues/2999) **|** [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)<br>
 <!--RECENT_ACTIVITY:end-->
