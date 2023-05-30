@@ -51,14 +51,14 @@ console.log(
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [adafruit/Adafruit_Python_SSD1306](https://github.com/adafruit/Adafruit_Python_SSD1306)<br>
-**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/is-a-dev-discord](https://github.com/WilliamDavidHarrison/is-a-dev-discord)<br>
-**3 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#466](https://github.com/pinout-xyz/Pinout.xyz/issues/466) **|** [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz)<br>
-**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [keroserene/rickrollrc](https://github.com/keroserene/rickrollrc)<br>
-**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)<br>
-**7 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/deploy-code-server-F-Ad](https://github.com/SX-9/deploy-code-server-F-Ad)<br>
-**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)<br>
-**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [RoganDawes/P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa)<br>
-**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [beboxos/P4wnP1_ALOA_OLED_MENU_V2](https://github.com/beboxos/P4wnP1_ALOA_OLED_MENU_V2)<br>
+**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [datkat21/pluto-web-os](https://github.com/datkat21/pluto-web-os)<br>
+**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [adafruit/Adafruit_Python_SSD1306](https://github.com/adafruit/Adafruit_Python_SSD1306)<br>
+**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [WilliamDavidHarrison/is-a-dev-discord](https://github.com/WilliamDavidHarrison/is-a-dev-discord)<br>
+**4 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#466](https://github.com/pinout-xyz/Pinout.xyz/issues/466) **|** [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz)<br>
+**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [keroserene/rickrollrc](https://github.com/keroserene/rickrollrc)<br>
+**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)<br>
+**8 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/deploy-code-server-F-Ad](https://github.com/SX-9/deploy-code-server-F-Ad)<br>
+**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)<br>
+**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [RoganDawes/P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa)<br>
 <!--RECENT_ACTIVITY:end-->
