@@ -51,14 +51,14 @@ console.log(
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#8](https://github.com/SX-9/codedit-web/pull/8) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [catppuccin/minecraft](https://github.com/catppuccin/minecraft)<br>
-**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [0x7c13/Notepads](https://github.com/0x7c13/Notepads)<br>
-**4 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#6](https://github.com/SX-9/codedit-web/pull/6) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**5 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#466](https://github.com/pinout-xyz/Pinout.xyz/issues/466#issuecomment-1591383730) **|** [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz)<br>
-**6 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#466](https://github.com/pinout-xyz/Pinout.xyz/issues/466#issuecomment-1591383084) **|** [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz)<br>
-**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [89luca89/distrobox](https://github.com/89luca89/distrobox)<br>
-**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)<br>
-**9 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#466](https://github.com/pinout-xyz/Pinout.xyz/issues/466#issuecomment-1575697530) **|** [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz)<br>
-**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [wdhdev/api](https://github.com/wdhdev/api)<br>
+**1 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#8](https://github.com/SX-9/codedit-web/pull/8) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**2 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#8](https://github.com/SX-9/codedit-web/pull/8) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [catppuccin/minecraft](https://github.com/catppuccin/minecraft)<br>
+**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [0x7c13/Notepads](https://github.com/0x7c13/Notepads)<br>
+**5 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#6](https://github.com/SX-9/codedit-web/pull/6) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**6 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#466](https://github.com/pinout-xyz/Pinout.xyz/issues/466#issuecomment-1591383730) **|** [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz)<br>
+**7 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#466](https://github.com/pinout-xyz/Pinout.xyz/issues/466#issuecomment-1591383084) **|** [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz)<br>
+**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [89luca89/distrobox](https://github.com/89luca89/distrobox)<br>
+**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)<br>
+**10 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#466](https://github.com/pinout-xyz/Pinout.xyz/issues/466#issuecomment-1575697530) **|** [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz)<br>
 <!--RECENT_ACTIVITY:end-->
