@@ -51,14 +51,14 @@ console.log(
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#2](https://github.com/SX-9/discord-terminal-v2/pull/2) **|** [SX-9/discord-terminal-v2](https://github.com/SX-9/discord-terminal-v2)<br>
-**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [fathyb/carbonyl](https://github.com/fathyb/carbonyl)<br>
-**3 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#8](https://github.com/SX-9/codedit-web/pull/8) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**4 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#8](https://github.com/SX-9/codedit-web/pull/8) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [catppuccin/minecraft](https://github.com/catppuccin/minecraft)<br>
-**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [0x7c13/Notepads](https://github.com/0x7c13/Notepads)<br>
-**7 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#6](https://github.com/SX-9/codedit-web/pull/6) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**8 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#466](https://github.com/pinout-xyz/Pinout.xyz/issues/466#issuecomment-1591383730) **|** [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz)<br>
-**9 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#466](https://github.com/pinout-xyz/Pinout.xyz/issues/466#issuecomment-1591383084) **|** [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz)<br>
-**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [89luca89/distrobox](https://github.com/89luca89/distrobox)<br>
+**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [gmoe/tmux-wifi](https://github.com/gmoe/tmux-wifi)<br>
+**2 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#2](https://github.com/SX-9/discord-terminal-v2/pull/2) **|** [SX-9/discord-terminal-v2](https://github.com/SX-9/discord-terminal-v2)<br>
+**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [fathyb/carbonyl](https://github.com/fathyb/carbonyl)<br>
+**4 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#8](https://github.com/SX-9/codedit-web/pull/8) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**5 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#8](https://github.com/SX-9/codedit-web/pull/8) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [catppuccin/minecraft](https://github.com/catppuccin/minecraft)<br>
+**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [0x7c13/Notepads](https://github.com/0x7c13/Notepads)<br>
+**8 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#6](https://github.com/SX-9/codedit-web/pull/6) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**9 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#466](https://github.com/pinout-xyz/Pinout.xyz/issues/466#issuecomment-1591383730) **|** [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz)<br>
+**10 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#466](https://github.com/pinout-xyz/Pinout.xyz/issues/466#issuecomment-1591383084) **|** [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz)<br>
 <!--RECENT_ACTIVITY:end-->
