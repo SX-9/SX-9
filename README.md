@@ -51,14 +51,14 @@ console.log(
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [mikelawrence/RPi_Zero_pHat_Template](https://github.com/mikelawrence/RPi_Zero_pHat_Template)<br>
-**2 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#3](https://github.com/SX-9/discord-terminal-v2/pull/3) **|** [SX-9/discord-terminal-v2](https://github.com/SX-9/discord-terminal-v2)<br>
-**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [gmoe/tmux-wifi](https://github.com/gmoe/tmux-wifi)<br>
-**4 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#2](https://github.com/SX-9/discord-terminal-v2/pull/2) **|** [SX-9/discord-terminal-v2](https://github.com/SX-9/discord-terminal-v2)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [fathyb/carbonyl](https://github.com/fathyb/carbonyl)<br>
-**6 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#8](https://github.com/SX-9/codedit-web/pull/8) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**7 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#8](https://github.com/SX-9/codedit-web/pull/8) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [catppuccin/minecraft](https://github.com/catppuccin/minecraft)<br>
-**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [0x7c13/Notepads](https://github.com/0x7c13/Notepads)<br>
-**10 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#6](https://github.com/SX-9/codedit-web/pull/6) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**1 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#1](https://github.com/SX-9/xcp/pull/1) **|** [SX-9/xcp](https://github.com/SX-9/xcp)<br>
+**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [mikelawrence/RPi_Zero_pHat_Template](https://github.com/mikelawrence/RPi_Zero_pHat_Template)<br>
+**3 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#3](https://github.com/SX-9/discord-terminal-v2/pull/3) **|** [SX-9/discord-terminal-v2](https://github.com/SX-9/discord-terminal-v2)<br>
+**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [gmoe/tmux-wifi](https://github.com/gmoe/tmux-wifi)<br>
+**5 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#2](https://github.com/SX-9/discord-terminal-v2/pull/2) **|** [SX-9/discord-terminal-v2](https://github.com/SX-9/discord-terminal-v2)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [fathyb/carbonyl](https://github.com/fathyb/carbonyl)<br>
+**7 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#8](https://github.com/SX-9/codedit-web/pull/8) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**8 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#8](https://github.com/SX-9/codedit-web/pull/8) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [catppuccin/minecraft](https://github.com/catppuccin/minecraft)<br>
+**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [0x7c13/Notepads](https://github.com/0x7c13/Notepads)<br>
 <!--RECENT_ACTIVITY:end-->
