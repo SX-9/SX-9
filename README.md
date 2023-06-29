@@ -47,18 +47,18 @@ console.log(
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Activities @ 28th June, 2023
+###### Activities @ 29th June, 2023
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Proto-App/Proto-Android](https://github.com/Proto-App/Proto-Android)<br>
-**2 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#9](https://github.com/SX-9/codedit-web/pull/9) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**3 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#467](https://github.com/pinout-xyz/Pinout.xyz/issues/467) **|** [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz)<br>
-**4 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#1](https://github.com/SX-9/xcp/pull/1) **|** [SX-9/xcp](https://github.com/SX-9/xcp)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [mikelawrence/RPi_Zero_pHat_Template](https://github.com/mikelawrence/RPi_Zero_pHat_Template)<br>
-**6 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#3](https://github.com/SX-9/discord-terminal-v2/pull/3) **|** [SX-9/discord-terminal-v2](https://github.com/SX-9/discord-terminal-v2)<br>
-**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [gmoe/tmux-wifi](https://github.com/gmoe/tmux-wifi)<br>
-**8 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#2](https://github.com/SX-9/discord-terminal-v2/pull/2) **|** [SX-9/discord-terminal-v2](https://github.com/SX-9/discord-terminal-v2)<br>
-**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [fathyb/carbonyl](https://github.com/fathyb/carbonyl)<br>
-**10 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#8](https://github.com/SX-9/codedit-web/pull/8) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [github/docs](https://github.com/github/docs)<br>
+**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [zuzumi-f/Discord-11](https://github.com/zuzumi-f/Discord-11)<br>
+**3 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#9](https://github.com/SX-9/codedit-web/pull/9) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Proto-App/Proto-Android](https://github.com/Proto-App/Proto-Android)<br>
+**5 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#9](https://github.com/SX-9/codedit-web/pull/9) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**6 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#467](https://github.com/pinout-xyz/Pinout.xyz/issues/467) **|** [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz)<br>
+**7 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#1](https://github.com/SX-9/xcp/pull/1) **|** [SX-9/xcp](https://github.com/SX-9/xcp)<br>
+**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [mikelawrence/RPi_Zero_pHat_Template](https://github.com/mikelawrence/RPi_Zero_pHat_Template)<br>
+**9 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#3](https://github.com/SX-9/discord-terminal-v2/pull/3) **|** [SX-9/discord-terminal-v2](https://github.com/SX-9/discord-terminal-v2)<br>
+**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [gmoe/tmux-wifi](https://github.com/gmoe/tmux-wifi)<br>
 <!--RECENT_ACTIVITY:end-->
