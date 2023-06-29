@@ -51,14 +51,14 @@ console.log(
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#4](https://github.com/SX-9/chatx/pull/4) **|** [SX-9/chatx](https://github.com/SX-9/chatx)<br>
-**2 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#3](https://github.com/SX-9/chatx/pull/3) **|** [SX-9/chatx](https://github.com/SX-9/chatx)<br>
-**3 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2](https://github.com/SX-9/chatx/pull/2) **|** [SX-9/chatx](https://github.com/SX-9/chatx)<br>
-**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [github/docs](https://github.com/github/docs)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [zuzumi-f/Discord-11](https://github.com/zuzumi-f/Discord-11)<br>
-**6 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#9](https://github.com/SX-9/codedit-web/pull/9) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Proto-App/Proto-Android](https://github.com/Proto-App/Proto-Android)<br>
-**8 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#9](https://github.com/SX-9/codedit-web/pull/9) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**9 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#467](https://github.com/pinout-xyz/Pinout.xyz/issues/467) **|** [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz)<br>
-**10 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#1](https://github.com/SX-9/xcp/pull/1) **|** [SX-9/xcp](https://github.com/SX-9/xcp)<br>
+**1 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#10](https://github.com/SX-9/codedit-web/pull/10) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**2 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#4](https://github.com/SX-9/chatx/pull/4) **|** [SX-9/chatx](https://github.com/SX-9/chatx)<br>
+**3 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#3](https://github.com/SX-9/chatx/pull/3) **|** [SX-9/chatx](https://github.com/SX-9/chatx)<br>
+**4 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2](https://github.com/SX-9/chatx/pull/2) **|** [SX-9/chatx](https://github.com/SX-9/chatx)<br>
+**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [github/docs](https://github.com/github/docs)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [zuzumi-f/Discord-11](https://github.com/zuzumi-f/Discord-11)<br>
+**7 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#9](https://github.com/SX-9/codedit-web/pull/9) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Proto-App/Proto-Android](https://github.com/Proto-App/Proto-Android)<br>
+**9 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#9](https://github.com/SX-9/codedit-web/pull/9) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**10 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#467](https://github.com/pinout-xyz/Pinout.xyz/issues/467) **|** [pinout-xyz/Pinout.xyz](https://github.com/pinout-xyz/Pinout.xyz)<br>
 <!--RECENT_ACTIVITY:end-->
