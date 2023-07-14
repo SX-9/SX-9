@@ -6,43 +6,38 @@
 
 ```js
 #! /bin/node
-
 import chalk from "chalk";
 
 function greet(you) {
   return `
     Hi, ${you}! Im ${this.name},
 
-    Im A ${this.stack} Developer,
-    An Asian At ${this.country},
-    And An ${this.os} User Btw.
-    Ive Been Coding Since ${this.coded}.
+    I'm a ${this.stack} Developer,
+    An Asian at ${this.country},
+    I use ${this.os} btw.
+    I've been coding since ${this.since}.
 
-    More Info Of Me At ${this.site}.
-    Bye...
+    Find more info at ${this.site}.
+    Bye!
   `;
 }
 
-const info = {
+module.exports = {
   name: "Satria",
-  stack: "Front-End",
+  stack: "Front-end",
   country: "Indonesia",
-  coded: 2021,
-  os: "Arch Linux",
-  site: "sx9.is-a.dev",
+  since: 2021,
+  os: "Arch",
+  site: "https://sx9.is-a.dev",
 }
 
 let hello = greet.bind(info);
-console.log(
-  chalk.cyan(
-    hello("Github")
-  )
-);
+console.log(chalk.cyan(hello("GitHub")));
 
 // EOF
 ```
 
-![](https://skillicons.dev/icons?i=md,py,raspberrypi,replit,twitter,neovim,ts,vercel,bash,html,css,js,discord,express,git,github,vite,vue,firebase,linux,nodejs,vscode&theme=light&perline=11)
+![Skills](https://skillicons.dev/icons?i=md,py,raspberrypi,replit,twitter,neovim,ts,vercel,bash,html,css,js,discord,express,git,github,vite,vue,firebase,linux,nodejs,vscode&theme=light&perline=11)
 
 ---
 
