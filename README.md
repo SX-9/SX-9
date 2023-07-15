@@ -22,7 +22,7 @@ function greet(you) {
   `;
 }
 
-module.exports = {
+const info = {
   name: "Satria",
   stack: "Front-end",
   country: "Indonesia",
