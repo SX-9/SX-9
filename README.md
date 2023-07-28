@@ -1,46 +1,8 @@
-![](banner.png)
+# hi, i make random stuff 4 fun!
 
+Hi, I'm Satria, a self-taught web developer from Indonesia. I've been coding since 2021 and have experience with Node.js, web development, and Linux. As a student, I love spending my free time coding and experimenting with new technologies. My interests include machine learning, low-level systems, and circuitry. I'm an introvert by nature and prefer to spend most of my time working on personal projects. Thanks for taking the time to learn a little more about me!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=90D1F7&repeat=false&width=435&lines=%22Programming+Is+Painful+And+Fun%22">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&repeat=false&width=435&lines=F*ck+You+Light+Mode+User;%22Programming+Is+Painful+And+Fun%22">
-  <img alt="Quote">
-</picture>
-
-```js
-#! /bin/node
-import chalk from "chalk";
-
-function greet(you) {
-  return `
-    Hi, ${you}! Im ${this.name},
-
-    I'm a ${this.stack} Developer,
-    An Asian at ${this.country},
-    I use ${this.os} btw.
-    I've been coding since ${this.since}.
-
-    Find more info at ${this.site}.
-    Bye!
-  `;
-}
-
-const info = {
-  name: "Satria",
-  stack: "Front-end",
-  country: "Indonesia",
-  since: 2021,
-  os: "Arch",
-  site: "https://sx9.is-a.dev",
-}
-
-let hello = greet.bind(info);
-console.log(chalk.cyan(hello("GitHub")));
-
-// EOF
-```
-
-![Skills](https://skillicons.dev/icons?i=md,py,raspberrypi,replit,twitter,neovim,ts,vercel,bash,html,css,js,discord,express,git,github,vite,vue,firebase,linux,nodejs,vscode&theme=light&perline=11)
+![Skills](https://skillicons.dev/icons?i=md,py,raspberrypi,replit,neovim,vercel,bash,express,vite,vue,firebase,linux,nodejs,vscode,github,twitter,ts,html,css,js,discord,git&theme=dark)
 
 ---
 
