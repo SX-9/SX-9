@@ -7,7 +7,7 @@ Hi, I'm Satria, a self-taught web developer from Indonesia. I've been coding sin
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Activities @ 2nd August, 2023
+###### Activities @ 3rd August, 2023
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
