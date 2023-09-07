@@ -11,14 +11,14 @@ Hi, I'm Satria, a self-taught web developer from Indonesia. I've been coding sin
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [beingmohit/browser-playerctl](https://github.com/beingmohit/browser-playerctl)<br>
-**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [vimpop/pcf8574-linux](https://github.com/vimpop/pcf8574-linux)<br>
-**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [allanbian1017/i2c-ch341-usb](https://github.com/allanbian1017/i2c-ch341-usb)<br>
-**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [genshen/ssh-web-console](https://github.com/genshen/ssh-web-console)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [luisbraganca/fake-terminal-website](https://github.com/luisbraganca/fake-terminal-website)<br>
-**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [GiacomoLaw/Keylogger](https://github.com/GiacomoLaw/Keylogger)<br>
-**7 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#5](https://github.com/SX-9/chatx/pull/5) **|** [SX-9/chatx](https://github.com/SX-9/chatx)<br>
-**8 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#1](https://github.com/SX-9/sx-2nd-website/pull/1) **|** [SX-9/sx-2nd-website](https://github.com/SX-9/sx-2nd-website)<br>
-**9 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#1](https://github.com/SX-9/sx-2nd-website/pull/1) **|** [SX-9/sx-2nd-website](https://github.com/SX-9/sx-2nd-website)<br>
-**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [binaryupdates/esp01-firmware](https://github.com/binaryupdates/esp01-firmware)<br>
+**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client)<br>
+**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)<br>
+**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [beingmohit/browser-playerctl](https://github.com/beingmohit/browser-playerctl)<br>
+**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [vimpop/pcf8574-linux](https://github.com/vimpop/pcf8574-linux)<br>
+**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [allanbian1017/i2c-ch341-usb](https://github.com/allanbian1017/i2c-ch341-usb)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [genshen/ssh-web-console](https://github.com/genshen/ssh-web-console)<br>
+**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [luisbraganca/fake-terminal-website](https://github.com/luisbraganca/fake-terminal-website)<br>
+**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [GiacomoLaw/Keylogger](https://github.com/GiacomoLaw/Keylogger)<br>
+**9 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#5](https://github.com/SX-9/chatx/pull/5) **|** [SX-9/chatx](https://github.com/SX-9/chatx)<br>
+**10 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#1](https://github.com/SX-9/sx-2nd-website/pull/1) **|** [SX-9/sx-2nd-website](https://github.com/SX-9/sx-2nd-website)<br>
 <!--RECENT_ACTIVITY:end-->
