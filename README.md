@@ -11,14 +11,14 @@ Hi, I'm Satria, a self-taught web developer from Indonesia. I've been coding sin
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [ventoy/Ventoy](https://github.com/ventoy/Ventoy)<br>
-**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client)<br>
-**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)<br>
-**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [beingmohit/browser-playerctl](https://github.com/beingmohit/browser-playerctl)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [vimpop/pcf8574-linux](https://github.com/vimpop/pcf8574-linux)<br>
-**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [allanbian1017/i2c-ch341-usb](https://github.com/allanbian1017/i2c-ch341-usb)<br>
-**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [genshen/ssh-web-console](https://github.com/genshen/ssh-web-console)<br>
-**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [luisbraganca/fake-terminal-website](https://github.com/luisbraganca/fake-terminal-website)<br>
-**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [GiacomoLaw/Keylogger](https://github.com/GiacomoLaw/Keylogger)<br>
-**10 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#5](https://github.com/SX-9/chatx/pull/5) **|** [SX-9/chatx](https://github.com/SX-9/chatx)<br>
+**1 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#7807](https://github.com/is-a-dev/register/issues/7807) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [ventoy/Ventoy](https://github.com/ventoy/Ventoy)<br>
+**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client)<br>
+**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)<br>
+**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [beingmohit/browser-playerctl](https://github.com/beingmohit/browser-playerctl)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [vimpop/pcf8574-linux](https://github.com/vimpop/pcf8574-linux)<br>
+**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [allanbian1017/i2c-ch341-usb](https://github.com/allanbian1017/i2c-ch341-usb)<br>
+**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [genshen/ssh-web-console](https://github.com/genshen/ssh-web-console)<br>
+**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [luisbraganca/fake-terminal-website](https://github.com/luisbraganca/fake-terminal-website)<br>
+**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [GiacomoLaw/Keylogger](https://github.com/GiacomoLaw/Keylogger)<br>
 <!--RECENT_ACTIVITY:end-->
