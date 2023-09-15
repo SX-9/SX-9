@@ -11,14 +11,14 @@ Hi, I'm Satria, a self-taught web developer from Indonesia. I've been coding sin
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#7852](https://github.com/is-a-dev/register/pull/7852#issuecomment-1721367585) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-**2 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#7852](https://github.com/is-a-dev/register/pull/7852) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-**3 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#7807](https://github.com/is-a-dev/register/issues/7807#issuecomment-1717412328) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-**4 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#7807](https://github.com/is-a-dev/register/issues/7807) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [ventoy/Ventoy](https://github.com/ventoy/Ventoy)<br>
-**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client)<br>
-**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)<br>
-**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [beingmohit/browser-playerctl](https://github.com/beingmohit/browser-playerctl)<br>
-**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [vimpop/pcf8574-linux](https://github.com/vimpop/pcf8574-linux)<br>
-**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [allanbian1017/i2c-ch341-usb](https://github.com/allanbian1017/i2c-ch341-usb)<br>
+**1 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#7852](https://github.com/is-a-dev/register/pull/7852#issuecomment-1721373565) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**2 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#7852](https://github.com/is-a-dev/register/pull/7852#issuecomment-1721367585) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**3 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#7852](https://github.com/is-a-dev/register/pull/7852) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**4 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#7807](https://github.com/is-a-dev/register/issues/7807#issuecomment-1717412328) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**5 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#7807](https://github.com/is-a-dev/register/issues/7807) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [ventoy/Ventoy](https://github.com/ventoy/Ventoy)<br>
+**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client)<br>
+**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)<br>
+**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [beingmohit/browser-playerctl](https://github.com/beingmohit/browser-playerctl)<br>
+**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [vimpop/pcf8574-linux](https://github.com/vimpop/pcf8574-linux)<br>
 <!--RECENT_ACTIVITY:end-->
