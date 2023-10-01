@@ -11,14 +11,14 @@ Hi, I'm Satria, a self-taught web developer from Indonesia. I've been coding sin
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#15](https://github.com/SX-9/codedit-web/pull/15) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**2 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#14](https://github.com/SX-9/codedit-web/pull/14) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**3 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/script-share](https://github.com/SX-9/script-share)<br>
-**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [namdevel/jsid.dev](https://github.com/namdevel/jsid.dev)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [AltraMayor/f3](https://github.com/AltraMayor/f3)<br>
-**6 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#7868](https://github.com/is-a-dev/register/pull/7868) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-**7 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#7852](https://github.com/is-a-dev/register/pull/7852#issuecomment-1721373565) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-**8 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#7852](https://github.com/is-a-dev/register/pull/7852#issuecomment-1721367585) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-**9 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#7852](https://github.com/is-a-dev/register/pull/7852) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-**10 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#7807](https://github.com/is-a-dev/register/issues/7807#issuecomment-1717412328) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [mell-o-tron/OS-Reference](https://github.com/mell-o-tron/OS-Reference)<br>
+**2 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#15](https://github.com/SX-9/codedit-web/pull/15) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**3 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#14](https://github.com/SX-9/codedit-web/pull/14) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**4 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/script-share](https://github.com/SX-9/script-share)<br>
+**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [namdevel/jsid.dev](https://github.com/namdevel/jsid.dev)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [AltraMayor/f3](https://github.com/AltraMayor/f3)<br>
+**7 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#7868](https://github.com/is-a-dev/register/pull/7868) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**8 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#7852](https://github.com/is-a-dev/register/pull/7852#issuecomment-1721373565) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**9 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#7852](https://github.com/is-a-dev/register/pull/7852#issuecomment-1721367585) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**10 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#7852](https://github.com/is-a-dev/register/pull/7852) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
