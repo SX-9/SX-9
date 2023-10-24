@@ -11,14 +11,14 @@ Hi, I'm Satria, a self-taught web developer from Indonesia. I've been coding sin
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#8857](https://github.com/is-a-dev/register/pull/8857#issuecomment-1773581260) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-**2 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#8857](https://github.com/is-a-dev/register/pull/8857) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-**3 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#16](https://github.com/SX-9/codedit-web/pull/16) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**4 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#8836](https://github.com/is-a-dev/register/pull/8836) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SebLague/Chess-Challenge](https://github.com/SebLague/Chess-Challenge)<br>
-**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [shazow/ssh-chat](https://github.com/shazow/ssh-chat)<br>
-**7 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#6](https://github.com/SX-9/chatx/pull/6) **|** [SX-9/chatx](https://github.com/SX-9/chatx)<br>
-**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [mell-o-tron/OS-Reference](https://github.com/mell-o-tron/OS-Reference)<br>
-**9 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#15](https://github.com/SX-9/codedit-web/pull/15) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**10 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#14](https://github.com/SX-9/codedit-web/pull/14) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/collatz-conjecture](https://github.com/SX-9/collatz-conjecture)<br>
+**2 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/collatz-conjecture](https://github.com/SX-9/collatz-conjecture)<br>
+**3 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#8857](https://github.com/is-a-dev/register/pull/8857#issuecomment-1773581260) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**4 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#8857](https://github.com/is-a-dev/register/pull/8857) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**5 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#16](https://github.com/SX-9/codedit-web/pull/16) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**6 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#8836](https://github.com/is-a-dev/register/pull/8836) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SebLague/Chess-Challenge](https://github.com/SebLague/Chess-Challenge)<br>
+**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [shazow/ssh-chat](https://github.com/shazow/ssh-chat)<br>
+**9 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#6](https://github.com/SX-9/chatx/pull/6) **|** [SX-9/chatx](https://github.com/SX-9/chatx)<br>
+**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [mell-o-tron/OS-Reference](https://github.com/mell-o-tron/OS-Reference)<br>
 <!--RECENT_ACTIVITY:end-->
