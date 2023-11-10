@@ -12,14 +12,14 @@ Hi, I'm Satria, a self-taught web developer from Indonesia. I've been coding sin
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/cli-js-chess](https://github.com/SX-9/cli-js-chess)<br>
-**2 =>** ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#9078](https://github.com/is-a-dev/register/pull/9078) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-**3 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#9078](https://github.com/is-a-dev/register/pull/9078#issuecomment-1787301762) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-**4 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#9078](https://github.com/is-a-dev/register/pull/9078) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-**5 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#9077](https://github.com/is-a-dev/register/pull/9077) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner)<br>
-**7 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2](https://github.com/SX-9/web.sh/pull/2) **|** [SX-9/web.sh](https://github.com/SX-9/web.sh)<br>
-**8 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#1](https://github.com/SX-9/web.sh/pull/1) **|** [SX-9/web.sh](https://github.com/SX-9/web.sh)<br>
-**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [malwaredllc/byob](https://github.com/malwaredllc/byob)<br>
-**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/collatz-conjecture](https://github.com/SX-9/collatz-conjecture)<br>
+**1 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#86](https://github.com/DigitalLogicSimCommunity/Digital-Logic-Sim-CE/issues/86) **|** [DigitalLogicSimCommunity/Digital-Logic-Sim-CE](https://github.com/DigitalLogicSimCommunity/Digital-Logic-Sim-CE)<br>
+**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [DigitalLogicSimCommunity/Digital-Logic-Sim-CE](https://github.com/DigitalLogicSimCommunity/Digital-Logic-Sim-CE)<br>
+**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SebLague/Digital-Logic-Sim](https://github.com/SebLague/Digital-Logic-Sim)<br>
+**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/cli-js-chess](https://github.com/SX-9/cli-js-chess)<br>
+**5 =>** ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#9078](https://github.com/is-a-dev/register/pull/9078) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**6 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#9078](https://github.com/is-a-dev/register/pull/9078#issuecomment-1787301762) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**7 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#9078](https://github.com/is-a-dev/register/pull/9078) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**8 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#9077](https://github.com/is-a-dev/register/pull/9077) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner)<br>
+**10 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2](https://github.com/SX-9/web.sh/pull/2) **|** [SX-9/web.sh](https://github.com/SX-9/web.sh)<br>
 <!--RECENT_ACTIVITY:end-->
