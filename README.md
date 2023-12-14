@@ -12,14 +12,14 @@ Hi, I'm Satria, a self-taught web developer from Indonesia. I've been coding sin
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#224](https://github.com/Phineas/lanyard/issues/224) **|** [Phineas/lanyard](https://github.com/Phineas/lanyard)<br>
-**2 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/sx-3rd-website](https://github.com/SX-9/sx-3rd-website)<br>
-**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [PistonDevelopers/hematite](https://github.com/PistonDevelopers/hematite)<br>
-**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [PistonDevelopers/hematite.piston.rs](https://github.com/PistonDevelopers/hematite.piston.rs)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio)<br>
-**6 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#9893](https://github.com/is-a-dev/register/pull/9893#issuecomment-1842270600) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-**7 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#9893](https://github.com/is-a-dev/register/pull/9893#issuecomment-1842186885) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-**8 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#9893](https://github.com/is-a-dev/register/pull/9893#issuecomment-1842182157) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-**9 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#9893](https://github.com/is-a-dev/register/pull/9893#issuecomment-1842179976) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-**10 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#9893](https://github.com/is-a-dev/register/pull/9893) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**1 =>** ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#224](https://github.com/Phineas/lanyard/issues/224) **|** [Phineas/lanyard](https://github.com/Phineas/lanyard)<br>
+**2 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#224](https://github.com/Phineas/lanyard/issues/224) **|** [Phineas/lanyard](https://github.com/Phineas/lanyard)<br>
+**3 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/sx-3rd-website](https://github.com/SX-9/sx-3rd-website)<br>
+**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [PistonDevelopers/hematite](https://github.com/PistonDevelopers/hematite)<br>
+**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [PistonDevelopers/hematite.piston.rs](https://github.com/PistonDevelopers/hematite.piston.rs)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio)<br>
+**7 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#9893](https://github.com/is-a-dev/register/pull/9893#issuecomment-1842270600) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**8 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#9893](https://github.com/is-a-dev/register/pull/9893#issuecomment-1842186885) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**9 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#9893](https://github.com/is-a-dev/register/pull/9893#issuecomment-1842182157) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**10 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#9893](https://github.com/is-a-dev/register/pull/9893#issuecomment-1842179976) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
