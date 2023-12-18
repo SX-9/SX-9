@@ -12,14 +12,14 @@ Hi, I'm Satria, a self-taught web developer from Indonesia. I've been coding sin
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/gh-get-pinned](https://github.com/SX-9/gh-get-pinned)<br>
-**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/sx-3rd-website](https://github.com/SX-9/sx-3rd-website)<br>
-**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/dvd-bounce](https://github.com/SX-9/dvd-bounce)<br>
-**4 =>** ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#224](https://github.com/Phineas/lanyard/issues/224) **|** [Phineas/lanyard](https://github.com/Phineas/lanyard)<br>
-**5 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#224](https://github.com/Phineas/lanyard/issues/224) **|** [Phineas/lanyard](https://github.com/Phineas/lanyard)<br>
-**6 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/sx-3rd-website](https://github.com/SX-9/sx-3rd-website)<br>
-**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [PistonDevelopers/hematite](https://github.com/PistonDevelopers/hematite)<br>
-**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [PistonDevelopers/hematite.piston.rs](https://github.com/PistonDevelopers/hematite.piston.rs)<br>
-**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio)<br>
-**10 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#9893](https://github.com/is-a-dev/register/pull/9893#issuecomment-1842270600) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [r4g3baby/SimpleScore](https://github.com/r4g3baby/SimpleScore)<br>
+**2 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/gh-get-pinned](https://github.com/SX-9/gh-get-pinned)<br>
+**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/sx-3rd-website](https://github.com/SX-9/sx-3rd-website)<br>
+**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/dvd-bounce](https://github.com/SX-9/dvd-bounce)<br>
+**5 =>** ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#224](https://github.com/Phineas/lanyard/issues/224) **|** [Phineas/lanyard](https://github.com/Phineas/lanyard)<br>
+**6 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#224](https://github.com/Phineas/lanyard/issues/224) **|** [Phineas/lanyard](https://github.com/Phineas/lanyard)<br>
+**7 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/sx-3rd-website](https://github.com/SX-9/sx-3rd-website)<br>
+**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [PistonDevelopers/hematite](https://github.com/PistonDevelopers/hematite)<br>
+**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [PistonDevelopers/hematite.piston.rs](https://github.com/PistonDevelopers/hematite.piston.rs)<br>
+**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
