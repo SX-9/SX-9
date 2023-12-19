@@ -12,14 +12,14 @@ Hi, I'm Satria, a self-taught web developer from Indonesia. I've been coding sin
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#6](https://github.com/Safouene1/support-palestine-banner/issues/6#issuecomment-1862033695) **|** [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner)<br>
-**2 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1248](https://github.com/stackblitz/webcontainer-core/issues/1248#issuecomment-1862032757) **|** [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
-**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [r4g3baby/SimpleScore](https://github.com/r4g3baby/SimpleScore)<br>
-**4 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/gh-get-pinned](https://github.com/SX-9/gh-get-pinned)<br>
-**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/sx-3rd-website](https://github.com/SX-9/sx-3rd-website)<br>
-**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/dvd-bounce](https://github.com/SX-9/dvd-bounce)<br>
-**7 =>** ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#224](https://github.com/Phineas/lanyard/issues/224) **|** [Phineas/lanyard](https://github.com/Phineas/lanyard)<br>
-**8 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#224](https://github.com/Phineas/lanyard/issues/224) **|** [Phineas/lanyard](https://github.com/Phineas/lanyard)<br>
-**9 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/sx-3rd-website](https://github.com/SX-9/sx-3rd-website)<br>
-**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [PistonDevelopers/hematite](https://github.com/PistonDevelopers/hematite)<br>
+**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/gh-get-pinned](https://github.com/SX-9/gh-get-pinned)<br>
+**2 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#6](https://github.com/Safouene1/support-palestine-banner/issues/6#issuecomment-1862033695) **|** [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner)<br>
+**3 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1248](https://github.com/stackblitz/webcontainer-core/issues/1248#issuecomment-1862032757) **|** [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
+**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [r4g3baby/SimpleScore](https://github.com/r4g3baby/SimpleScore)<br>
+**5 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/gh-get-pinned](https://github.com/SX-9/gh-get-pinned)<br>
+**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/sx-3rd-website](https://github.com/SX-9/sx-3rd-website)<br>
+**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/dvd-bounce](https://github.com/SX-9/dvd-bounce)<br>
+**8 =>** ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#224](https://github.com/Phineas/lanyard/issues/224) **|** [Phineas/lanyard](https://github.com/Phineas/lanyard)<br>
+**9 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#224](https://github.com/Phineas/lanyard/issues/224) **|** [Phineas/lanyard](https://github.com/Phineas/lanyard)<br>
+**10 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/sx-3rd-website](https://github.com/SX-9/sx-3rd-website)<br>
 <!--RECENT_ACTIVITY:end-->
