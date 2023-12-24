@@ -12,14 +12,14 @@ Hi, I'm Satria, a self-taught web developer from Indonesia. I've been coding sin
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#45](https://github.com/maxgallup/tailscale-status/issues/45) **|** [maxgallup/tailscale-status](https://github.com/maxgallup/tailscale-status)<br>
-**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Zain-ul-din/The-Palestinian-Side](https://github.com/Zain-ul-din/The-Palestinian-Side)<br>
-**3 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#8](https://github.com/Safouene1/support-palestine-banner/pull/8) **|** [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner)<br>
-**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/http-from-scratch](https://github.com/SX-9/http-from-scratch)<br>
-**5 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/http-from-scratch](https://github.com/SX-9/http-from-scratch)<br>
-**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [conaticus/botnet](https://github.com/conaticus/botnet)<br>
-**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/gh-get-pinned](https://github.com/SX-9/gh-get-pinned)<br>
-**8 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#6](https://github.com/Safouene1/support-palestine-banner/issues/6#issuecomment-1862033695) **|** [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner)<br>
-**9 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1248](https://github.com/stackblitz/webcontainer-core/issues/1248#issuecomment-1862032757) **|** [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
-**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [r4g3baby/SimpleScore](https://github.com/r4g3baby/SimpleScore)<br>
+**1 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1](https://github.com/SX-9/term-port/issues/1#issuecomment-1868502467) **|** [SX-9/term-port](https://github.com/SX-9/term-port)<br>
+**2 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#45](https://github.com/maxgallup/tailscale-status/issues/45) **|** [maxgallup/tailscale-status](https://github.com/maxgallup/tailscale-status)<br>
+**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Zain-ul-din/The-Palestinian-Side](https://github.com/Zain-ul-din/The-Palestinian-Side)<br>
+**4 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#8](https://github.com/Safouene1/support-palestine-banner/pull/8) **|** [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner)<br>
+**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/http-from-scratch](https://github.com/SX-9/http-from-scratch)<br>
+**6 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/http-from-scratch](https://github.com/SX-9/http-from-scratch)<br>
+**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [conaticus/botnet](https://github.com/conaticus/botnet)<br>
+**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/gh-get-pinned](https://github.com/SX-9/gh-get-pinned)<br>
+**9 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#6](https://github.com/Safouene1/support-palestine-banner/issues/6#issuecomment-1862033695) **|** [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner)<br>
+**10 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1248](https://github.com/stackblitz/webcontainer-core/issues/1248#issuecomment-1862032757) **|** [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)<br>
 <!--RECENT_ACTIVITY:end-->
