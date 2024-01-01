@@ -12,14 +12,14 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/yaipl](https://github.com/SX-9/yaipl)<br>
-**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido)<br>
-**3 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#48](https://github.com/andrew-d/static-binaries/issues/48) **|** [andrew-d/static-binaries](https://github.com/andrew-d/static-binaries)<br>
-**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [andrew-d/static-binaries](https://github.com/andrew-d/static-binaries)<br>
-**5 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#227](https://github.com/Phineas/lanyard/pull/227) **|** [Phineas/lanyard](https://github.com/Phineas/lanyard)<br>
-**6 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [driusan/dainit](https://github.com/driusan/dainit)<br>
-**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/web.sh-client](https://github.com/SX-9/web.sh-client)<br>
-**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [luisgbm/lfs-scripts](https://github.com/luisgbm/lfs-scripts)<br>
-**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tttppp/mountain_tapir](https://github.com/tttppp/mountain_tapir)<br>
-**10 =>** ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#1](https://github.com/SX-9/term-port/issues/1) **|** [SX-9/term-port](https://github.com/SX-9/term-port)<br>
+**1 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#15](https://github.com/SX-9/codedit-web/pull/15) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**2 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/yaipl](https://github.com/SX-9/yaipl)<br>
+**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido)<br>
+**4 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#48](https://github.com/andrew-d/static-binaries/issues/48) **|** [andrew-d/static-binaries](https://github.com/andrew-d/static-binaries)<br>
+**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [andrew-d/static-binaries](https://github.com/andrew-d/static-binaries)<br>
+**6 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#227](https://github.com/Phineas/lanyard/pull/227) **|** [Phineas/lanyard](https://github.com/Phineas/lanyard)<br>
+**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [driusan/dainit](https://github.com/driusan/dainit)<br>
+**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/web.sh-client](https://github.com/SX-9/web.sh-client)<br>
+**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [luisgbm/lfs-scripts](https://github.com/luisgbm/lfs-scripts)<br>
+**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tttppp/mountain_tapir](https://github.com/tttppp/mountain_tapir)<br>
 <!--RECENT_ACTIVITY:end-->
