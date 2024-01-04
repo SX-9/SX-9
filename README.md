@@ -6,18 +6,18 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Activities @ 3rd January, 2024
+###### Activities @ 4th January, 2024
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-**1 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [adi1090x/termux-desktop](https://github.com/adi1090x/termux-desktop)<br>
-**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tahins/refactoring-color](https://github.com/tahins/refactoring-color)<br>
-**3 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/server-stats-api](https://github.com/SX-9/server-stats-api)<br>
-**4 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [aminblm/awesome-free-palestine-support-kit](https://github.com/aminblm/awesome-free-palestine-support-kit)<br>
-**5 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#15](https://github.com/SX-9/codedit-web/pull/15) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
-**6 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/yaipl](https://github.com/SX-9/yaipl)<br>
-**7 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido)<br>
-**8 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#48](https://github.com/andrew-d/static-binaries/issues/48) **|** [andrew-d/static-binaries](https://github.com/andrew-d/static-binaries)<br>
-**9 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [andrew-d/static-binaries](https://github.com/andrew-d/static-binaries)<br>
-**10 =>** ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#227](https://github.com/Phineas/lanyard/pull/227) **|** [Phineas/lanyard](https://github.com/Phineas/lanyard)<br>
+**1 =>** ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#45](https://github.com/maxgallup/tailscale-status/issues/45#issuecomment-1876128353) **|** [maxgallup/tailscale-status](https://github.com/maxgallup/tailscale-status)<br>
+**2 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [adi1090x/termux-desktop](https://github.com/adi1090x/termux-desktop)<br>
+**3 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tahins/refactoring-color](https://github.com/tahins/refactoring-color)<br>
+**4 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/server-stats-api](https://github.com/SX-9/server-stats-api)<br>
+**5 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [aminblm/awesome-free-palestine-support-kit](https://github.com/aminblm/awesome-free-palestine-support-kit)<br>
+**6 =>** ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#15](https://github.com/SX-9/codedit-web/pull/15) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+**7 =>** ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/yaipl](https://github.com/SX-9/yaipl)<br>
+**8 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido)<br>
+**9 =>** ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#48](https://github.com/andrew-d/static-binaries/issues/48) **|** [andrew-d/static-binaries](https://github.com/andrew-d/static-binaries)<br>
+**10 =>** ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [andrew-d/static-binaries](https://github.com/andrew-d/static-binaries)<br>
 <!--RECENT_ACTIVITY:end-->
