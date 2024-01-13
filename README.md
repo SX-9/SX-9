@@ -6,7 +6,7 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Activities @ 12th January, 2024
+###### Activities @ 13th January, 2024
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
