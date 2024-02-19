@@ -13,6 +13,7 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [nir9/stars](https://github.com/nir9/stars)<br>
 - ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#11880](https://github.com/is-a-dev/register/pull/11880) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#11880](https://github.com/is-a-dev/register/pull/11880#pullrequestreview-1887323139) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#11880](https://github.com/is-a-dev/register/pull/11880#discussion_r1493842258) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -22,5 +23,4 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#11860](https://github.com/is-a-dev/register/pull/11860#discussion_r1485575995) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#11785](https://github.com/is-a-dev/register/pull/11785) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#11785](https://github.com/is-a-dev/register/pull/11785#pullrequestreview-1874350477) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#86](https://github.com/DigitalLogicSimCommunity/Digital-Logic-Sim-CE/issues/86#issuecomment-1937608295) **|** [DigitalLogicSimCommunity/Digital-Logic-Sim-CE](https://github.com/DigitalLogicSimCommunity/Digital-Logic-Sim-CE)<br>
 <!--RECENT_ACTIVITY:end-->
