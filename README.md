@@ -13,6 +13,7 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [atrosinenko/qemujs](https://github.com/atrosinenko/qemujs)<br>
 - ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/linux-syscalls](https://github.com/SX-9/linux-syscalls)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [nir9/stars](https://github.com/nir9/stars)<br>
 - ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#11880](https://github.com/is-a-dev/register/pull/11880) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -22,5 +23,4 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#86](https://github.com/DigitalLogicSimCommunity/Digital-Logic-Sim-CE/issues/86#issuecomment-1943920765) **|** [DigitalLogicSimCommunity/Digital-Logic-Sim-CE](https://github.com/DigitalLogicSimCommunity/Digital-Logic-Sim-CE)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [kevinboone/fblife](https://github.com/kevinboone/fblife)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#11860](https://github.com/is-a-dev/register/pull/11860#discussion_r1485575995) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#11785](https://github.com/is-a-dev/register/pull/11785) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
