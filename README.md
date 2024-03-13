@@ -13,6 +13,7 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#12602](https://github.com/is-a-dev/register/pull/12602#issuecomment-1994513295) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [fireship-io/pocketchat-tutorial](https://github.com/fireship-io/pocketchat-tutorial)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [nvbn/thefuck](https://github.com/nvbn/thefuck)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [atrosinenko/qemujs](https://github.com/atrosinenko/qemujs)<br>
@@ -22,5 +23,4 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 - ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#11880](https://github.com/is-a-dev/register/pull/11880#pullrequestreview-1887323139) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#11880](https://github.com/is-a-dev/register/pull/11880#discussion_r1493842258) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#11880](https://github.com/is-a-dev/register/pull/11880#discussion_r1493842141) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#86](https://github.com/DigitalLogicSimCommunity/Digital-Logic-Sim-CE/issues/86#issuecomment-1943920765) **|** [DigitalLogicSimCommunity/Digital-Logic-Sim-CE](https://github.com/DigitalLogicSimCommunity/Digital-Logic-Sim-CE)<br>
 <!--RECENT_ACTIVITY:end-->
