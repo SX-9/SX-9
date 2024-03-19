@@ -13,6 +13,7 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1006](https://github.com/copy/v86/issues/1006#issuecomment-2008190380) **|** [copy/v86](https://github.com/copy/v86)<br>
 - ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#12831](https://github.com/is-a-dev/register/pull/12831) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#12831](https://github.com/is-a-dev/register/pull/12831#pullrequestreview-1946464060) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#1006](https://github.com/copy/v86/issues/1006) **|** [copy/v86](https://github.com/copy/v86)<br>
@@ -22,5 +23,4 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [fireship-io/pocketchat-tutorial](https://github.com/fireship-io/pocketchat-tutorial)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [nvbn/thefuck](https://github.com/nvbn/thefuck)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [atrosinenko/qemujs](https://github.com/atrosinenko/qemujs)<br>
-- ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/linux-syscalls](https://github.com/SX-9/linux-syscalls)<br>
 <!--RECENT_ACTIVITY:end-->
