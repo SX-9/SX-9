@@ -13,6 +13,7 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [is-cool-me/register](https://github.com/is-cool-me/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#1949](https://github.com/publicsuffix/list/pull/1949#issuecomment-2015029293) **|** [publicsuffix/list](https://github.com/publicsuffix/list)<br>
 - ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#3](https://github.com/SX-9/web.sh/pull/3) **|** [SX-9/web.sh](https://github.com/SX-9/web.sh)<br>
 - ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2](https://github.com/SX-9/xcp/pull/2) **|** [SX-9/xcp](https://github.com/SX-9/xcp)<br>
@@ -22,5 +23,4 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 - ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#12831](https://github.com/is-a-dev/register/pull/12831) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#12831](https://github.com/is-a-dev/register/pull/12831#pullrequestreview-1946464060) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#1006](https://github.com/copy/v86/issues/1006) **|** [copy/v86](https://github.com/copy/v86)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [ktock/container2wasm](https://github.com/ktock/container2wasm)<br>
 <!--RECENT_ACTIVITY:end-->
