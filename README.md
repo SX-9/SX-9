@@ -13,6 +13,8 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#12801](https://github.com/is-a-dev/register/pull/12801) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#12801](https://github.com/is-a-dev/register/pull/12801#pullrequestreview-1958107591) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#12770](https://github.com/is-a-dev/register/pull/12770) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#12770](https://github.com/is-a-dev/register/pull/12770#pullrequestreview-1956655047) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#12777](https://github.com/is-a-dev/register/pull/12777#pullrequestreview-1956555116) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -21,6 +23,4 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#12775](https://github.com/is-a-dev/register/pull/12775#pullrequestreview-1956554253) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#12770](https://github.com/is-a-dev/register/pull/12770#discussion_r1536817298) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#12770](https://github.com/is-a-dev/register/pull/12770#pullrequestreview-1956554126) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#12770](https://github.com/is-a-dev/register/pull/12770#discussion_r1536817337) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)<br>
 <!--RECENT_ACTIVITY:end-->
