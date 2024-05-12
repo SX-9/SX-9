@@ -13,6 +13,7 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#12105](https://github.com/tailscale/tailscale/issues/12105) **|** [tailscale/tailscale](https://github.com/tailscale/tailscale)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#195](https://github.com/waydroid/waydroid/issues/195#issuecomment-2105947488) **|** [waydroid/waydroid](https://github.com/waydroid/waydroid)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SebLague/Chess-Coding-Adventure](https://github.com/SebLague/Chess-Coding-Adventure)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [gazlaws-dev/codeboard](https://github.com/gazlaws-dev/codeboard)<br>
@@ -22,5 +23,4 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [mindstorm38/portablemc](https://github.com/mindstorm38/portablemc)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/ssh-chat](https://github.com/SX-9/ssh-chat)<br>
 - ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/ssh-chat](https://github.com/SX-9/ssh-chat)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [open-domains/raw](https://github.com/open-domains/raw)<br>
 <!--RECENT_ACTIVITY:end-->
