@@ -9,18 +9,18 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Activities @ 25th May, 2024
+###### Activities @ 26th May, 2024
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [jaedle/mirror-to-gitea](https://github.com/jaedle/mirror-to-gitea)<br>
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#17](https://github.com/jaedle/mirror-to-gitea/issues/17#issuecomment-2131810444) **|** [jaedle/mirror-to-gitea](https://github.com/jaedle/mirror-to-gitea)<br>
+- ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#17](https://github.com/jaedle/mirror-to-gitea/issues/17) **|** [jaedle/mirror-to-gitea](https://github.com/jaedle/mirror-to-gitea)<br>
+- ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#17](https://github.com/jaedle/mirror-to-gitea/issues/17) **|** [jaedle/mirror-to-gitea](https://github.com/jaedle/mirror-to-gitea)<br>
 - ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/ollama-client](https://github.com/SX-9/ollama-client)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [community/community](https://github.com/community/community)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [VladimirPal/mcChessCom](https://github.com/VladimirPal/mcChessCom)<br>
 - ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#1413](https://github.com/waydroid/waydroid/issues/1413) **|** [waydroid/waydroid](https://github.com/waydroid/waydroid)<br>
 - ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#1823](https://github.com/IceWhaleTech/CasaOS/issues/1823) **|** [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)<br>
 - ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/chess-from-scratch](https://github.com/SX-9/chess-from-scratch)<br>
-- ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#12105](https://github.com/tailscale/tailscale/issues/12105) **|** [tailscale/tailscale](https://github.com/tailscale/tailscale)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#195](https://github.com/waydroid/waydroid/issues/195#issuecomment-2105947488) **|** [waydroid/waydroid](https://github.com/waydroid/waydroid)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SebLague/Chess-Coding-Adventure](https://github.com/SebLague/Chess-Coding-Adventure)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [gazlaws-dev/codeboard](https://github.com/gazlaws-dev/codeboard)<br>
 <!--RECENT_ACTIVITY:end-->
