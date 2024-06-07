@@ -13,6 +13,8 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#19](https://github.com/SX-9/codedit-web/pull/19) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
+- ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#19](https://github.com/SX-9/codedit-web/pull/19) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [jaedle/mirror-to-gitea](https://github.com/jaedle/mirror-to-gitea)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#17](https://github.com/jaedle/mirror-to-gitea/issues/17#issuecomment-2131810444) **|** [jaedle/mirror-to-gitea](https://github.com/jaedle/mirror-to-gitea)<br>
@@ -21,6 +23,4 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 - ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/ollama-client](https://github.com/SX-9/ollama-client)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [community/community](https://github.com/community/community)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [VladimirPal/mcChessCom](https://github.com/VladimirPal/mcChessCom)<br>
-- ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#1413](https://github.com/waydroid/waydroid/issues/1413) **|** [waydroid/waydroid](https://github.com/waydroid/waydroid)<br>
-- ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#1823](https://github.com/IceWhaleTech/CasaOS/issues/1823) **|** [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)<br>
 <!--RECENT_ACTIVITY:end-->
