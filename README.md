@@ -13,6 +13,7 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium)<br>
 - ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#7](https://github.com/SX-9/chatx/pull/7) **|** [SX-9/chatx](https://github.com/SX-9/chatx)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [mcknly/breadboard-os](https://github.com/mcknly/breadboard-os)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [picocss/pico](https://github.com/picocss/pico)<br>
@@ -22,5 +23,4 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [jaedle/mirror-to-gitea](https://github.com/jaedle/mirror-to-gitea)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#17](https://github.com/jaedle/mirror-to-gitea/issues/17#issuecomment-2131810444) **|** [jaedle/mirror-to-gitea](https://github.com/jaedle/mirror-to-gitea)<br>
 - ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#17](https://github.com/jaedle/mirror-to-gitea/issues/17) **|** [jaedle/mirror-to-gitea](https://github.com/jaedle/mirror-to-gitea)<br>
-- ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#17](https://github.com/jaedle/mirror-to-gitea/issues/17) **|** [jaedle/mirror-to-gitea](https://github.com/jaedle/mirror-to-gitea)<br>
 <!--RECENT_ACTIVITY:end-->
