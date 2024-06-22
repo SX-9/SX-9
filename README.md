@@ -13,6 +13,7 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#41](https://github.com/SunilWang/node-os-utils/issues/41) **|** [SunilWang/node-os-utils](https://github.com/SunilWang/node-os-utils)<br>
 - ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#4](https://github.com/SX-9/xcp/pull/4) **|** [SX-9/xcp](https://github.com/SX-9/xcp)<br>
 - ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#4](https://github.com/SX-9/discord-terminal-v2/pull/4) **|** [SX-9/discord-terminal-v2](https://github.com/SX-9/discord-terminal-v2)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [gorilla-devs/ferium](https://github.com/gorilla-devs/ferium)<br>
@@ -22,5 +23,4 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 - ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#19](https://github.com/SX-9/codedit-web/pull/19) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
 - ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#19](https://github.com/SX-9/codedit-web/pull/19) **|** [SX-9/codedit-web](https://github.com/SX-9/codedit-web)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sorenisanerd/gotty](https://github.com/sorenisanerd/gotty)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [jaedle/mirror-to-gitea](https://github.com/jaedle/mirror-to-gitea)<br>
 <!--RECENT_ACTIVITY:end-->
