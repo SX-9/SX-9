@@ -13,6 +13,7 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tyroruyk/ufetch](https://github.com/tyroruyk/ufetch)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/servedash](https://github.com/SX-9/servedash)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [toplan/Vim.js](https://github.com/toplan/Vim.js)<br>
@@ -22,5 +23,4 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 - ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/servedash](https://github.com/SX-9/servedash)<br>
 - ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#41](https://github.com/SunilWang/node-os-utils/issues/41) **|** [SunilWang/node-os-utils](https://github.com/SunilWang/node-os-utils)<br>
 - ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#4](https://github.com/SX-9/xcp/pull/4) **|** [SX-9/xcp](https://github.com/SX-9/xcp)<br>
-- ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#4](https://github.com/SX-9/discord-terminal-v2/pull/4) **|** [SX-9/discord-terminal-v2](https://github.com/SX-9/discord-terminal-v2)<br>
 <!--RECENT_ACTIVITY:end-->
