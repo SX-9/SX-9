@@ -14,6 +14,7 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 
 <!--RECENT_ACTIVITY:start-->
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/fetch.sh](https://github.com/SX-9/fetch.sh)<br>
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/fetch.sh](https://github.com/SX-9/fetch.sh)<br>
 - ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/fetch.sh](https://github.com/SX-9/fetch.sh)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tyroruyk/ufetch](https://github.com/tyroruyk/ufetch)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/servedash](https://github.com/SX-9/servedash)<br>
@@ -21,6 +22,5 @@ My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've 
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [toplan/Vim.js](https://github.com/toplan/Vim.js)<br>
 - ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#14849](https://github.com/is-a-dev/register/pull/14849) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [shmykelsa/AAAD](https://github.com/shmykelsa/AAAD)<br>
-- ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/servedash](https://github.com/SX-9/servedash)<br>
 - ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/servedash](https://github.com/SX-9/servedash)<br>
 <!--RECENT_ACTIVITY:end-->
