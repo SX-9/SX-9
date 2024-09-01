@@ -2,10 +2,6 @@
 
 [![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
 
-# hi, i make random stuff 4 fun!
-
-My name is Satria, Im a self-taught hobbyist web developer from Indonesia. I've been coding since 2021 at the age of 11. I love spending my free time coding and experimenting with new technologies. I spend most of my time working on personal projects. I'm currently learning Vue.js and Tailwind CSS. I'm also interested in Linux and open-source software.
-
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
