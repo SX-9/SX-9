@@ -9,6 +9,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/blog](https://github.com/SX-9/blog)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/nix-conf](https://github.com/SX-9/nix-conf)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#4](https://github.com/partofmyid/register/pull/4) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
@@ -18,5 +19,4 @@
 - ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#2](https://github.com/partofmyid/register/pull/2) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#1](https://github.com/partofmyid/register/pull/1) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![pr_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg) [#1](https://github.com/partofmyid/register/pull/1) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
-- ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#1](https://github.com/SX-9/blog/issues/1) **|** [SX-9/blog](https://github.com/SX-9/blog)<br>
 <!--RECENT_ACTIVITY:end-->
