@@ -7,6 +7,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/4th-site](https://github.com/SX-9/4th-site)<br>
 - ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#12](https://github.com/partofmyid/register/pull/12) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#12](https://github.com/partofmyid/register/pull/12#pullrequestreview-2426544584) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#11](https://github.com/partofmyid/register/pull/11) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
@@ -15,6 +16,5 @@
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/fetch.sh](https://github.com/SX-9/fetch.sh)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#18](https://github.com/jacekpoz/nixwebr.ing/pull/18#issuecomment-2455665245) **|** [jacekpoz/nixwebr.ing](https://github.com/jacekpoz/nixwebr.ing)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [metafizzy/zdog](https://github.com/metafizzy/zdog)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/5th-site](https://github.com/SX-9/5th-site)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/5th-site](https://github.com/SX-9/5th-site)<br>
 <!--RECENT_ACTIVITY:end-->
