@@ -7,6 +7,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [CRImier/NGFF](https://github.com/CRImier/NGFF)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#25](https://github.com/partofmyid/register/pull/25#discussion_r1938146022) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#25](https://github.com/partofmyid/register/pull/25#pullrequestreview-2588154876) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [PwnFunction/CVE-2021-4034](https://github.com/PwnFunction/CVE-2021-4034)<br>
@@ -16,5 +17,4 @@
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [kiwih/kiwikit-pico-baseboard](https://github.com/kiwih/kiwikit-pico-baseboard)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [mrh929/magisk-wifiadb](https://github.com/mrh929/magisk-wifiadb)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [vmartinv/nek](https://github.com/vmartinv/nek)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)<br>
 <!--RECENT_ACTIVITY:end-->
