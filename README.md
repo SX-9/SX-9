@@ -7,6 +7,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [googlevr/cardboard](https://github.com/googlevr/cardboard)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [hexaaagon/pastebon](https://github.com/hexaaagon/pastebon)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [phenax/draw-stuff-on-your-screen](https://github.com/phenax/draw-stuff-on-your-screen)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [zzl/go-win32api](https://github.com/zzl/go-win32api)<br>
@@ -16,5 +17,4 @@
 - ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#26](https://github.com/partofmyid/register/pull/26) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#26](https://github.com/partofmyid/register/pull/26#pullrequestreview-2607475078) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tailscale/tailscale](https://github.com/tailscale/tailscale)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [leaningtech/webvm](https://github.com/leaningtech/webvm)<br>
 <!--RECENT_ACTIVITY:end-->
