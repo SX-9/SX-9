@@ -7,6 +7,8 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [FreshROMs/android_kernel_samsung_exynos9610_mint](https://github.com/FreshROMs/android_kernel_samsung_exynos9610_mint)<br>
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [anasfanani/Magisk-Tailscaled](https://github.com/anasfanani/Magisk-Tailscaled)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [googlevr/cardboard](https://github.com/googlevr/cardboard)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [hexaaagon/pastebon](https://github.com/hexaaagon/pastebon)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [phenax/draw-stuff-on-your-screen](https://github.com/phenax/draw-stuff-on-your-screen)<br>
@@ -15,6 +17,4 @@
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tailscale/caddy-tailscale](https://github.com/tailscale/caddy-tailscale)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker)<br>
 - ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#26](https://github.com/partofmyid/register/pull/26) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
-- ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#26](https://github.com/partofmyid/register/pull/26#pullrequestreview-2607475078) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tailscale/tailscale](https://github.com/tailscale/tailscale)<br>
 <!--RECENT_ACTIVITY:end-->
