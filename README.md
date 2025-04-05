@@ -7,6 +7,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#32](https://github.com/partofmyid/register/pull/32#issuecomment-2780640900) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#395739](https://github.com/NixOS/nixpkgs/issues/395739) **|** [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [th-ch/youtube-music](https://github.com/th-ch/youtube-music)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [is-not-cool/registration](https://github.com/is-not-cool/registration)<br>
@@ -16,5 +17,4 @@
 - ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#21661](https://github.com/is-a-dev/register/issues/21661) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#21670](https://github.com/is-a-dev/register/pull/21670) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#21670](https://github.com/is-a-dev/register/pull/21670#issuecomment-2767876445) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#21670](https://github.com/is-a-dev/register/pull/21670#pullrequestreview-2730920862) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
