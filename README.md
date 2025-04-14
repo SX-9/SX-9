@@ -7,14 +7,14 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#22047](https://github.com/is-a-dev/register/pull/22047) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#22047](https://github.com/is-a-dev/register/pull/22047#pullrequestreview-2763129520) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#22046](https://github.com/is-a-dev/register/pull/22046#pullrequestreview-2763123741) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#22046](https://github.com/is-a-dev/register/pull/22046#discussion_r2041409205) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#22046](https://github.com/is-a-dev/register/pull/22046#discussion_r2041409010) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#546](https://github.com/glanceapp/glance/issues/546#issuecomment-2800274750) **|** [glanceapp/glance](https://github.com/glanceapp/glance)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#34](https://github.com/partofmyid/register/pull/34#issuecomment-2800274196) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#34](https://github.com/partofmyid/register/pull/34#issuecomment-2800156845) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)<br>
 - ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#32](https://github.com/partofmyid/register/pull/32) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#32](https://github.com/partofmyid/register/pull/32#issuecomment-2796502601) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
-- ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#25](https://github.com/Safouene1/support-palestine-banner/issues/25) **|** [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#395739](https://github.com/NixOS/nixpkgs/issues/395739#issuecomment-2782543219) **|** [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#32](https://github.com/partofmyid/register/pull/32#issuecomment-2781722517) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
-- ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#21804](https://github.com/is-a-dev/register/issues/21804) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
