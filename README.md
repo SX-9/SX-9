@@ -7,6 +7,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [beeceej/lgtm](https://github.com/beeceej/lgtm)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#34](https://github.com/partofmyid/register/pull/34#discussion_r2053280135) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#34](https://github.com/partofmyid/register/pull/34#pullrequestreview-2782684143) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#34](https://github.com/partofmyid/register/pull/34#issuecomment-2819980838) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
@@ -16,5 +17,4 @@
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#34](https://github.com/partofmyid/register/pull/34#issuecomment-2817376103) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#22157](https://github.com/is-a-dev/register/pull/22157#discussion_r2051449174) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#22157](https://github.com/is-a-dev/register/pull/22157#pullrequestreview-2779934703) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [fechy/retropie-web-gui](https://github.com/fechy/retropie-web-gui)<br>
 <!--RECENT_ACTIVITY:end-->
