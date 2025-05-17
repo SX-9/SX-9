@@ -7,6 +7,8 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#36](https://github.com/partofmyid/register/pull/36#discussion_r2093782868) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
+- ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#36](https://github.com/partofmyid/register/pull/36#pullrequestreview-2847780168) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#22762](https://github.com/is-a-dev/register/pull/22762) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#22762](https://github.com/is-a-dev/register/pull/22762#pullrequestreview-2842172703) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#22761](https://github.com/is-a-dev/register/pull/22761#discussion_r2090207821) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -15,6 +17,4 @@
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#22699](https://github.com/is-a-dev/register/pull/22699#discussion_r2089133159) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#22699](https://github.com/is-a-dev/register/pull/22699#pullrequestreview-2840511634) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#22704](https://github.com/is-a-dev/register/pull/22704) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#22704](https://github.com/is-a-dev/register/pull/22704#pullrequestreview-2840508780) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [MalpenZibo/ashell](https://github.com/MalpenZibo/ashell)<br>
 <!--RECENT_ACTIVITY:end-->
