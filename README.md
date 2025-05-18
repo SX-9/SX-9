@@ -3,10 +3,11 @@
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Activities @ 17th May, 2025
+###### Activities @ 18th May, 2025
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#36](https://github.com/partofmyid/register/pull/36#discussion_r2094242143) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#36](https://github.com/partofmyid/register/pull/36#discussion_r2093782868) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#36](https://github.com/partofmyid/register/pull/36#pullrequestreview-2847780168) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#22762](https://github.com/is-a-dev/register/pull/22762) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
@@ -16,5 +17,4 @@
 - ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#22761](https://github.com/is-a-dev/register/pull/22761#pullrequestreview-2842170473) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#22699](https://github.com/is-a-dev/register/pull/22699#discussion_r2089133159) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_requested](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg) [#22699](https://github.com/is-a-dev/register/pull/22699#pullrequestreview-2840511634) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#22704](https://github.com/is-a-dev/register/pull/22704) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
