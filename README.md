@@ -7,6 +7,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Axenide/Ax-Shell](https://github.com/Axenide/Ax-Shell)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#395739](https://github.com/NixOS/nixpkgs/issues/395739#issuecomment-2909874454) **|** [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#395739](https://github.com/NixOS/nixpkgs/issues/395739#issuecomment-2909853353) **|** [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [FabricMC/fabric-language-kotlin](https://github.com/FabricMC/fabric-language-kotlin)<br>
@@ -16,5 +17,4 @@
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [microsoft/WSL](https://github.com/microsoft/WSL)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde)<br>
 - ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#36](https://github.com/partofmyid/register/pull/36) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#36](https://github.com/partofmyid/register/pull/36#discussion_r2094242143) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 <!--RECENT_ACTIVITY:end-->
