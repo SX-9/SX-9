@@ -7,6 +7,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [rajiWanigasingha/dot.config](https://github.com/rajiWanigasingha/dot.config)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [5hubham5ingh/WallRizz](https://github.com/5hubham5ingh/WallRizz)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [danihek/hellwal](https://github.com/danihek/hellwal)<br>
@@ -16,5 +17,4 @@
 - ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#23929](https://github.com/is-a-dev/register/pull/23929) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#23929](https://github.com/is-a-dev/register/pull/23929#pullrequestreview-2977101021) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [vinceliuice/Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake)<br>
 <!--RECENT_ACTIVITY:end-->
