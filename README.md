@@ -3,10 +3,11 @@
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Activities @ 6th July, 2025
+###### Activities @ 7th July, 2025
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/project-helper](https://github.com/SX-9/project-helper)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [mheap/automatic-approve-action](https://github.com/mheap/automatic-approve-action)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [chromium/chromium](https://github.com/chromium/chromium)<br>
 - ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#102](https://github.com/hackclub/YSWS-Catalog/issues/102) **|** [hackclub/YSWS-Catalog](https://github.com/hackclub/YSWS-Catalog)<br>
@@ -16,5 +17,4 @@
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [danihek/hellwal](https://github.com/danihek/hellwal)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [dylanaraps/pywal](https://github.com/dylanaraps/pywal)<br>
 - ![pr_merged](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg) [#23971](https://github.com/is-a-dev/register/pull/23971) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-- ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#23971](https://github.com/is-a-dev/register/pull/23971#pullrequestreview-2977102855) **|** [is-a-dev/register](https://github.com/is-a-dev/register)<br>
 <!--RECENT_ACTIVITY:end-->
