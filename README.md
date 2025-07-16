@@ -7,6 +7,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [InioX/matugen](https://github.com/InioX/matugen)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [SX-9/project-helper](https://github.com/SX-9/project-helper)<br>
@@ -16,5 +17,4 @@
 - ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#102](https://github.com/hackclub/YSWS-Catalog/issues/102) **|** [hackclub/YSWS-Catalog](https://github.com/hackclub/YSWS-Catalog)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [rajiWanigasingha/dot.config](https://github.com/rajiWanigasingha/dot.config)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [5hubham5ingh/WallRizz](https://github.com/5hubham5ingh/WallRizz)<br>
 <!--RECENT_ACTIVITY:end-->
