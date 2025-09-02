@@ -3,7 +3,7 @@
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Activities @ 1st September, 2025
+###### Activities @ 2nd September, 2025
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
