@@ -16,5 +16,4 @@
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [saatvik333/wayland-bongocat](https://github.com/saatvik333/wayland-bongocat)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [hackclub/tonic-starter](https://github.com/hackclub/tonic-starter)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [umutkrdgg/Umuts-Slimagotchi](https://github.com/umutkrdgg/Umuts-Slimagotchi)<br>
 <!--RECENT_ACTIVITY:end-->
