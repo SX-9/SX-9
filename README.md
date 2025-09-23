@@ -16,5 +16,4 @@
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#226566](https://github.com/NixOS/nixpkgs/issues/226566#issuecomment-3237163996) **|** [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [saatvik333/wayland-bongocat](https://github.com/saatvik333/wayland-bongocat)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [hackclub/tonic-starter](https://github.com/hackclub/tonic-starter)<br>
 <!--RECENT_ACTIVITY:end-->
