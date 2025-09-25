@@ -14,6 +14,4 @@
 - ![create_repo](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) [SX-9/daydream-jumpstart](https://github.com/SX-9/daydream-jumpstart)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tailscale/ts-browser-ext](https://github.com/tailscale/ts-browser-ext)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#226566](https://github.com/NixOS/nixpkgs/issues/226566#issuecomment-3237163996) **|** [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [saatvik333/wayland-bongocat](https://github.com/saatvik333/wayland-bongocat)<br>
 <!--RECENT_ACTIVITY:end-->
