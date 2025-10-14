@@ -3,7 +3,7 @@
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Activities @ 13th October, 2025
+###### Activities @ 14th October, 2025
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -15,5 +15,4 @@
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#71](https://github.com/femto-code/Raspberry-Pi-Dashboard/issues/71#issuecomment-3300607306) **|** [femto-code/Raspberry-Pi-Dashboard](https://github.com/femto-code/Raspberry-Pi-Dashboard)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources)<br>
 <!--RECENT_ACTIVITY:end-->
