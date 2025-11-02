@@ -13,5 +13,4 @@
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [MrCreativ3001/moonlight-web-stream](https://github.com/MrCreativ3001/moonlight-web-stream)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [tieler-am-elster/Aurify](https://github.com/tieler-am-elster/Aurify)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [archlinux/aur](https://github.com/archlinux/aur)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [minbrowser/min](https://github.com/minbrowser/min)<br>
 <!--RECENT_ACTIVITY:end-->
