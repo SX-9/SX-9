@@ -11,5 +11,4 @@
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [TibixDev/winboat](https://github.com/TibixDev/winboat)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365)<br>
 <!--RECENT_ACTIVITY:end-->
