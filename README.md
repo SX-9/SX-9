@@ -12,5 +12,4 @@
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#41](https://github.com/partofmyid/register/pull/41#pullrequestreview-3496759367) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [alrpal/TinyETL](https://github.com/alrpal/TinyETL)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [AdamsTechnologies/esp32-tempy](https://github.com/AdamsTechnologies/esp32-tempy)<br>
 <!--RECENT_ACTIVITY:end-->
