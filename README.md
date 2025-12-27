@@ -7,14 +7,14 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [GiovanYCringe-Experiments/android_vendor_samsung_a505f](https://github.com/GiovanYCringe-Experiments/android_vendor_samsung_a505f)<br>
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [GiovanYCringe-Experiments/android_device_samsung_a505f](https://github.com/GiovanYCringe-Experiments/android_device_samsung_a505f)<br>
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [GiovanYCringe-Experiments/OTA](https://github.com/GiovanYCringe-Experiments/OTA)<br>
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [devlikeapro/waha](https://github.com/devlikeapro/waha)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [muhammedaksam/waha-tui](https://github.com/muhammedaksam/waha-tui)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#45](https://github.com/partofmyid/register/pull/45#issuecomment-3685880697) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [gelatinescreams/The-One-File](https://github.com/gelatinescreams/The-One-File)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#45](https://github.com/partofmyid/register/pull/45#pullrequestreview-3606987809) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#44](undefined) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [zakk4223/hyprland-easymotion](https://github.com/zakk4223/hyprland-easymotion)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [alfs/tailscale-iot](https://github.com/alfs/tailscale-iot)<br>
-- ![issue_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg) [#1](https://github.com/SX-9/5th-site/issues/1) **|** [SX-9/5th-site](https://github.com/SX-9/5th-site)<br>
-- ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#1139](https://github.com/pocket-id/pocket-id/issues/1139) **|** [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)<br>
 <!--RECENT_ACTIVITY:end-->
