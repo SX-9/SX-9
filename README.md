@@ -7,6 +7,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [neur0tic/dns-visualizer](https://github.com/neur0tic/dns-visualizer)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [GiovanYCringe-Experiments/android_vendor_samsung_a505f](https://github.com/GiovanYCringe-Experiments/android_vendor_samsung_a505f)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [GiovanYCringe-Experiments/android_device_samsung_a505f](https://github.com/GiovanYCringe-Experiments/android_device_samsung_a505f)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [GiovanYCringe-Experiments/OTA](https://github.com/GiovanYCringe-Experiments/OTA)<br>
@@ -16,5 +17,4 @@
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#45](https://github.com/partofmyid/register/pull/45#issuecomment-3685880697) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [gelatinescreams/The-One-File](https://github.com/gelatinescreams/The-One-File)<br>
 - ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#45](https://github.com/partofmyid/register/pull/45#pullrequestreview-3606987809) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
-- ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#44](undefined) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 <!--RECENT_ACTIVITY:end-->
