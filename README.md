@@ -7,6 +7,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [mvt-project/mvt](https://github.com/mvt-project/mvt)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#48](https://github.com/partofmyid/register/pull/48#issuecomment-3721812323) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#12896](https://github.com/hyprwm/Hyprland/issues/12896) **|** [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [nix-community/home-manager](https://github.com/nix-community/home-manager)<br>
@@ -16,5 +17,4 @@
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [nix-community/vulnix](https://github.com/nix-community/vulnix)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [containers/bubblewrap](https://github.com/containers/bubblewrap)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [catppuccin/sddm](https://github.com/catppuccin/sddm)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [pinkSakoora/sakoora.hyprlock](https://github.com/pinkSakoora/sakoora.hyprlock)<br>
 <!--RECENT_ACTIVITY:end-->
