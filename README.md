@@ -7,6 +7,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [er-bharat/Win8DE](https://github.com/er-bharat/Win8DE)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [orangci/dots](https://github.com/orangci/dots)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [linuxmobile/keystroke](https://github.com/linuxmobile/keystroke)<br>
@@ -16,5 +17,4 @@
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#48](https://github.com/partofmyid/register/pull/48#issuecomment-3721812323) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 - ![issue_opened](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg) [#12896](https://github.com/hyprwm/Hyprland/issues/12896) **|** [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [nix-community/home-manager](https://github.com/nix-community/home-manager)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [PwnFunction/sandbox](https://github.com/PwnFunction/sandbox)<br>
 <!--RECENT_ACTIVITY:end-->
