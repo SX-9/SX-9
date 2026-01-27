@@ -10,6 +10,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [microsoft/winappCli](https://github.com/microsoft/winappCli)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [iptv-org/iptv](https://github.com/iptv-org/iptv)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [dusklinux/dusky](https://github.com/dusklinux/dusky)<br>
@@ -19,5 +20,4 @@
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [er-bharat/Win8DE](https://github.com/er-bharat/Win8DE)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [orangci/dots](https://github.com/orangci/dots)<br>
 <!--RECENT_ACTIVITY:end-->
