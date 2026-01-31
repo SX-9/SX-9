@@ -10,6 +10,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [nix-community/nh](https://github.com/nix-community/nh)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [polhenarejos/pico-fido2](https://github.com/polhenarejos/pico-fido2)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [krzysckh/pmc-gui](https://github.com/krzysckh/pmc-gui)<br>
 - ![pr_closed](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg) [#1](undefined) **|** [SX-9/nix-conf](https://github.com/SX-9/nix-conf)<br>
@@ -19,5 +20,4 @@
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [dusklinux/dusky](https://github.com/dusklinux/dusky)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [anttiviljami/browser-autofill-phishing](https://github.com/anttiviljami/browser-autofill-phishing)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [OpalAayan/snappy-switcher](https://github.com/OpalAayan/snappy-switcher)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#838](https://github.com/glanceapp/glance/pull/838#issuecomment-3768819038) **|** [glanceapp/glance](https://github.com/glanceapp/glance)<br>
 <!--RECENT_ACTIVITY:end-->
