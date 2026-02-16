@@ -10,6 +10,8 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#906](https://github.com/AdnanHodzic/auto-cpufreq/issues/906#issuecomment-3906747841) **|** [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)<br>
+- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#906](https://github.com/AdnanHodzic/auto-cpufreq/issues/906#issuecomment-3906745694) **|** [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [TheAlexDev23/power-options](https://github.com/TheAlexDev23/power-options)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [LuxF3rre/startpage](https://github.com/LuxF3rre/startpage)<br>
@@ -18,6 +20,4 @@
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [ryan4yin/nixos-rk3588](https://github.com/ryan4yin/nixos-rk3588)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#906](https://github.com/AdnanHodzic/auto-cpufreq/issues/906#issuecomment-3900437236) **|** [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [zed-industries/zed](https://github.com/zed-industries/zed)<br>
-- ![changes_approved](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg) [#49](https://github.com/partofmyid/register/pull/49#pullrequestreview-3765858132) **|** [partofmyid/register](https://github.com/partofmyid/register)<br>
 <!--RECENT_ACTIVITY:end-->
