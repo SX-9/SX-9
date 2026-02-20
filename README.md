@@ -10,6 +10,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [shinshin86/oh-my-logo](https://github.com/shinshin86/oh-my-logo)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#906](https://github.com/AdnanHodzic/auto-cpufreq/issues/906#issuecomment-3906747841) **|** [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#906](https://github.com/AdnanHodzic/auto-cpufreq/issues/906#issuecomment-3906745694) **|** [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy)<br>
@@ -19,5 +20,4 @@
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [gnull/nixos-rk3588](https://github.com/gnull/nixos-rk3588)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [ryan4yin/nixos-rk3588](https://github.com/ryan4yin/nixos-rk3588)<br>
 - ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#906](https://github.com/AdnanHodzic/auto-cpufreq/issues/906#issuecomment-3900437236) **|** [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [promptpirate-x/discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool)<br>
 <!--RECENT_ACTIVITY:end-->
