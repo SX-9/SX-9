@@ -10,6 +10,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [NixOS/nix](https://github.com/NixOS/nix)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [floatpane/matcha](https://github.com/floatpane/matcha)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [dj505/RP2040-Zero-KiCAD](https://github.com/dj505/RP2040-Zero-KiCAD)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)<br>
@@ -19,5 +20,4 @@
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [sipeed/picoclaw](https://github.com/sipeed/picoclaw)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [shinshin86/oh-my-logo](https://github.com/shinshin86/oh-my-logo)<br>
-- ![comments](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg) [#906](https://github.com/AdnanHodzic/auto-cpufreq/issues/906#issuecomment-3906747841) **|** [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq)<br>
 <!--RECENT_ACTIVITY:end-->
