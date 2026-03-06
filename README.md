@@ -10,6 +10,7 @@
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [ilyamiro/nixos-configuration](https://github.com/ilyamiro/nixos-configuration)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [hyprwm/hyprshutdown](https://github.com/hyprwm/hyprshutdown)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [kavishdevar/librepods](https://github.com/kavishdevar/librepods)<br>
@@ -19,5 +20,4 @@
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [rebane2001/x86CSS](https://github.com/rebane2001/x86CSS)<br>
 - ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)<br>
-- ![new_star](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg) [isXander/FabricKotlinTemplate](https://github.com/isXander/FabricKotlinTemplate)<br>
 <!--RECENT_ACTIVITY:end-->
